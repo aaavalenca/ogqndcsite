@@ -1,0 +1,34 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title="HQ" description={SITE_DESCRIPTION} />
+  </head>
+
+  <body>
+    <Header />
+    <main>
+      <a href="/viewer.html" target="_blank">
+        <center>
+          <img src="/comics/capa2.jpg" alt="Comic Preview" />
+          <h3>clique para ler</h3>
+        </center>
+      </a>
+    </main>
+  </body>
+</html>
+
+<!-- <div class="comic-container">
+  <h1>Comic Title</h1><div class="comic-thumbnail">
+    <a href="/viewer.html" target="_blank">
+      <img src="/comics/1/1-P0.jpg" alt="Comic Preview" />
+      <p>Click to view the comic</p>
+    </a>
+  </div>
+</div> -->

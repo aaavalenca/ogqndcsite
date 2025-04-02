@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link href="https://unpkg.com/lightgallery@1/dist/css/lightgallery.min.css" rel="stylesheet">
+    <title>Gestos Comic Reader</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        .page-indicator {
+            position: fixed;
+            bottom: 20px;
+            left: 0;
+            right: 0;
+            text-align: center;
+            font-weight: bold;
+            color: #555;
+            z-index: 1000;
+            background: rgba(255,255,255,0.7);
+            padding: 5px;
+        }
+        #comic-gallery {
+            width: 100vw;
+            height: 100vh;
+        }
+        #comic-gallery a {
+            display: none; /* Hide until LightGallery initializes */
+        }
+        /* Custom container for padding */
+.lg-outer .lg-img-wrap {
+    padding: 40px !important; /* This adds equal padding on all sides */
+    box-sizing: border-box; /* Ensures padding is included in dimensions */
+}
+
+/* Make image fit within padded area */
+.lg-outer .lg-image {
+    max-width: calc(100% - 80px) !important; /* 40px padding x 2 sides */
+    max-height: calc(100% - 80px) !important;
+    object-fit: contain; /* Ensures proper image scaling */
+}
+    </style>
+</head>
+
+<body>
+    <div class="page-indicator" id="pageIndicator"></div>
+    
+    <div id="comic-gallery">
+        <!-- Images will be inserted here by JavaScript -->
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/lightgallery@1/dist/js/lightgallery-all.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            // Define your image files
+            const comicPages = [
+                'comics/1/1-P0.jpg',
+                'comics/1/1-P1.jpg',
+                'comics/1/1-P2.jpg',
+                'comics/1/1-P3.jpg',
+                // Add all your page images here...
+            ];
+
+            // Build the gallery HTML
+            let galleryHTML = '';
+            comicPages.forEach((page, index) => {
+                galleryHTML += `
+                    <a href="${page}" data-sub-html="Page ${index + 1}">
+                        <img src="${page}" alt="Page ${index + 1}" />
+                    </a>
+                `;
+            });
+            
+            // Insert into the gallery div
+            $("#comic-gallery").html(galleryHTML);
+            
+            // Initialize LightGallery
+            $("#comic-gallery").lightGallery({
+                thumbnail: true,
+                animateThumb: true,
+                showThumbByDefault: false,
+                download: false,
+                onAfterOpen: function() {
+                    const total = comicPages.length;
+                    const current = this.index + 1;
+                    $("#pageIndicator").text(`${current} of ${total} pages`);
+                },
+                onAfterSlide: function() {
+                    const total = comicPages.length;
+                    const current = this.index + 1;
+                    $("#pageIndicator").text(`${current} of ${total} pages`);
+                }
+            });
+            
+            // Automatically open the first image
+            $("#comic-gallery a:first").trigger("click");
+        });
+    </script>
+</body>
+</html>
