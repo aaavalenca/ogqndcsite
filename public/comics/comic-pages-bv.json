@@ -1,180 +1,714 @@
 [
-    {"path": "comics/bv/1.jpg", "description": ""},
-    {"path": "comics/bv/2.jpg", "description": ""},
-    {"path": "comics/bv/3.jpg", "description": ""},
-    {"path": "comics/bv/4.jpg", "description": ""},
-    {"path": "comics/bv/5.jpg", "description": ""},
-    {"path": "comics/bv/6.jpg", "description": ""},
-    {"path": "comics/bv/7.jpg", "description": ""},
-    {"path": "comics/bv/8.jpg", "description": ""},
-    {"path": "comics/bv/9.jpg", "description": ""},
-    {"path": "comics/bv/10.jpg", "description": ""},
-    {"path": "comics/bv/11.jpg", "description": ""},
-    {"path": "comics/bv/12.jpg", "description": ""},
-    {"path": "comics/bv/13.jpg", "description": ""},
-    {"path": "comics/bv/14.jpg", "description": ""},
-    {"path": "comics/bv/15.jpg", "description": ""},
-    {"path": "comics/bv/16.jpg", "description": ""},
-    {"path": "comics/bv/17.jpg", "description": ""},
-    {"path": "comics/bv/18.jpg", "description": ""},
-    {"path": "comics/bv/19.jpg", "description": ""},
-    {"path": "comics/bv/20.jpg", "description": ""},
-    {"path": "comics/bv/21.jpg", "description": ""},
-    {"path": "comics/bv/22.jpg", "description": ""},
-    {"path": "comics/bv/23.jpg", "description": ""},
-    {"path": "comics/bv/24.jpg", "description": ""},
-    {"path": "comics/bv/25.jpg", "description": ""},
-    {"path": "comics/bv/26.jpg", "description": ""},
-    {"path": "comics/bv/27.jpg", "description": ""},
-    {"path": "comics/bv/28.jpg", "description": ""},
-    {"path": "comics/bv/29.jpg", "description": ""},
-    {"path": "comics/bv/30.jpg", "description": ""},
-    {"path": "comics/bv/31.jpg", "description": ""},
-    {"path": "comics/bv/32.jpg", "description": ""},
-    {"path": "comics/bv/33.jpg", "description": ""},
-    {"path": "comics/bv/34.jpg", "description": ""},
-    {"path": "comics/bv/35.jpg", "description": ""},
-    {"path": "comics/bv/36.jpg", "description": ""},
-    {"path": "comics/bv/37.jpg", "description": ""},
-    {"path": "comics/bv/38.jpg", "description": ""},
-    {"path": "comics/bv/39.jpg", "description": ""},
-    {"path": "comics/bv/40.jpg", "description": ""},
-    {"path": "comics/bv/41.jpg", "description": ""},
-    {"path": "comics/bv/42.jpg", "description": ""},
-    {"path": "comics/bv/43.jpg", "description": ""},
-    {"path": "comics/bv/44.jpg", "description": ""},
-    {"path": "comics/bv/45.jpg", "description": ""},
-    {"path": "comics/bv/46.jpg", "description": ""},
-    {"path": "comics/bv/47.jpg", "description": ""},
-    {"path": "comics/bv/48.jpg", "description": ""},
-    {"path": "comics/bv/49.jpg", "description": ""},
-    {"path": "comics/bv/50.jpg", "description": ""},
-    {"path": "comics/bv/51.jpg", "description": ""},
-    {"path": "comics/bv/52.jpg", "description": ""},
-    {"path": "comics/bv/53.jpg", "description": ""},
-    {"path": "comics/bv/54.jpg", "description": ""},
-    {"path": "comics/bv/55.jpg", "description": ""},
-    {"path": "comics/bv/56.jpg", "description": ""},
-    {"path": "comics/bv/57.jpg", "description": ""},
-    {"path": "comics/bv/58.jpg", "description": ""},
-    {"path": "comics/bv/59.jpg", "description": ""},
-    {"path": "comics/bv/60.jpg", "description": ""},
-    {"path": "comics/bv/61.jpg", "description": ""},
-    {"path": "comics/bv/62.jpg", "description": ""},
-    {"path": "comics/bv/63.jpg", "description": ""},
-    {"path": "comics/bv/64.jpg", "description": ""},
-    {"path": "comics/bv/65.jpg", "description": ""},
-    {"path": "comics/bv/66.jpg", "description": ""},
-    {"path": "comics/bv/67.jpg", "description": ""},
-    {"path": "comics/bv/68.jpg", "description": ""},
-    {"path": "comics/bv/69.jpg", "description": ""},
-    {"path": "comics/bv/70.jpg", "description": ""},
-    {"path": "comics/bv/71.jpg", "description": ""},
-    {"path": "comics/bv/72.jpg", "description": ""},
-    {"path": "comics/bv/73.jpg", "description": ""},
-    {"path": "comics/bv/74.jpg", "description": ""},
-    {"path": "comics/bv/75.jpg", "description": ""},
-    {"path": "comics/bv/76.jpg", "description": ""},
-    {"path": "comics/bv/77.jpg", "description": ""},
-    {"path": "comics/bv/78.jpg", "description": ""},
-    {"path": "comics/bv/79.jpg", "description": ""},
-    {"path": "comics/bv/80.jpg", "description": ""},
-    {"path": "comics/bv/81.jpg", "description": ""},
-    {"path": "comics/bv/82.jpg", "description": ""},
-    {"path": "comics/bv/83.jpg", "description": ""},
-    {"path": "comics/bv/84.jpg", "description": ""},
-    {"path": "comics/bv/85.jpg", "description": ""},
-    {"path": "comics/bv/86.jpg", "description": ""},
-    {"path": "comics/bv/87.jpg", "description": ""},
-    {"path": "comics/bv/88.jpg", "description": ""},
-    {"path": "comics/bv/89.jpg", "description": ""},
-    {"path": "comics/bv/90.jpg", "description": ""},
-    {"path": "comics/bv/91.jpg", "description": ""},
-    {"path": "comics/bv/92.jpg", "description": ""},
-    {"path": "comics/bv/93.jpg", "description": ""},
-    {"path": "comics/bv/94.jpg", "description": ""},
-    {"path": "comics/bv/95.jpg", "description": ""},
-    {"path": "comics/bv/96.jpg", "description": ""},
-    {"path": "comics/bv/97.jpg", "description": ""},
-    {"path": "comics/bv/98.jpg", "description": ""},
-    {"path": "comics/bv/99.jpg", "description": ""},
-    {"path": "comics/bv/100.jpg", "description": ""},
-    {"path": "comics/bv/101.jpg", "description": ""},
-    {"path": "comics/bv/102.jpg", "description": ""},
-    {"path": "comics/bv/103.jpg", "description": ""},
-    {"path": "comics/bv/104.jpg", "description": ""},
-    {"path": "comics/bv/105.jpg", "description": ""},
-    {"path": "comics/bv/106.jpg", "description": ""},
-    {"path": "comics/bv/107.jpg", "description": ""},
-    {"path": "comics/bv/108.jpg", "description": ""},
-    {"path": "comics/bv/109.jpg", "description": ""},
-    {"path": "comics/bv/110.jpg", "description": ""},
-    {"path": "comics/bv/111.jpg", "description": ""},
-    {"path": "comics/bv/112.jpg", "description": ""},
-    {"path": "comics/bv/113.jpg", "description": ""},
-    {"path": "comics/bv/114.jpg", "description": ""},
-    {"path": "comics/bv/115.jpg", "description": ""},
-    {"path": "comics/bv/116.jpg", "description": ""},
-    {"path": "comics/bv/117.jpg", "description": ""},
-    {"path": "comics/bv/118.jpg", "description": ""},
-    {"path": "comics/bv/119.jpg", "description": ""},
-    {"path": "comics/bv/120.jpg", "description": ""},
-    {"path": "comics/bv/121.jpg", "description": ""},
-    {"path": "comics/bv/122.jpg", "description": ""},
-    {"path": "comics/bv/123.jpg", "description": ""},
-    {"path": "comics/bv/124.jpg", "description": ""},
-    {"path": "comics/bv/125.jpg", "description": ""},
-    {"path": "comics/bv/126.jpg", "description": ""},
-    {"path": "comics/bv/127.jpg", "description": ""},
-    {"path": "comics/bv/128.jpg", "description": ""},
-    {"path": "comics/bv/129.jpg", "description": ""},
-    {"path": "comics/bv/130.jpg", "description": ""},
-    {"path": "comics/bv/131.jpg", "description": ""},
-    {"path": "comics/bv/132.jpg", "description": ""},
-    {"path": "comics/bv/133.jpg", "description": ""},
-    {"path": "comics/bv/134.jpg", "description": ""},
-    {"path": "comics/bv/135.jpg", "description": ""},
-    {"path": "comics/bv/136.jpg", "description": ""},
-    {"path": "comics/bv/137.jpg", "description": ""},
-    {"path": "comics/bv/138.jpg", "description": ""},
-    {"path": "comics/bv/139.jpg", "description": ""},
-    {"path": "comics/bv/140.jpg", "description": ""},
-    {"path": "comics/bv/141.jpg", "description": ""},
-    {"path": "comics/bv/142.jpg", "description": ""},
-    {"path": "comics/bv/143.jpg", "description": ""},
-    {"path": "comics/bv/144.jpg", "description": ""},
-    {"path": "comics/bv/145.jpg", "description": ""},
-    {"path": "comics/bv/146.jpg", "description": ""},
-    {"path": "comics/bv/147.jpg", "description": ""},
-    {"path": "comics/bv/148.jpg", "description": ""},
-    {"path": "comics/bv/149.jpg", "description": ""},
-    {"path": "comics/bv/150.jpg", "description": ""},
-    {"path": "comics/bv/151.jpg", "description": ""},
-    {"path": "comics/bv/152.jpg", "description": ""},
-    {"path": "comics/bv/153.jpg", "description": ""},
-    {"path": "comics/bv/154.jpg", "description": ""},
-    {"path": "comics/bv/155.jpg", "description": ""},
-    {"path": "comics/bv/156.jpg", "description": ""},
-    {"path": "comics/bv/157.jpg", "description": ""},
-    {"path": "comics/bv/158.jpg", "description": ""},
-    {"path": "comics/bv/159.jpg", "description": ""},
-    {"path": "comics/bv/160.jpg", "description": ""},
-    {"path": "comics/bv/161.jpg", "description": ""},
-    {"path": "comics/bv/162.jpg", "description": ""},
-    {"path": "comics/bv/163.jpg", "description": ""},
-    {"path": "comics/bv/164.jpg", "description": ""},
-    {"path": "comics/bv/165.jpg", "description": ""},
-    {"path": "comics/bv/166.jpg", "description": ""},
-    {"path": "comics/bv/167.jpg", "description": ""},
-    {"path": "comics/bv/168.jpg", "description": ""},
-    {"path": "comics/bv/169.jpg", "description": ""},
-    {"path": "comics/bv/170.jpg", "description": ""},
-    {"path": "comics/bv/171.jpg", "description": ""},
-    {"path": "comics/bv/172.jpg", "description": ""},
-    {"path": "comics/bv/173.jpg", "description": ""},
-    {"path": "comics/bv/174.jpg", "description": ""},
-    {"path": "comics/bv/175.jpg", "description": ""},
-    {"path": "comics/bv/176.jpg", "description": ""},
-    {"path": "comics/bv/177.jpg", "description": ""},
-    {"path": "comics/bv/178.jpg", "description": ""}
+  {
+    "path": "comics/bv/1.jpg",
+    "description": "os gestos que não deram certo\n(versão com fonte hiperlegível para baixa visão)\nAndré Valença\napoio\nincentivo"
+  },
+  {
+    "path": "comics/bv/2.jpg",
+    "description": "TIPOGRAFIA: ATKINSON HYPERLEGIBLE NEXT\nEMBORA AS SEMELHANÇAS COM A VIDA REAL NÃO SEJAM MERA COINCIDÊNCIA, ESTA É UMA OBRA DE FICÇÃO, NA QUAL NEM OS FATOS SÃO VERDADE."
+  },
+  {
+    "path": "comics/bv/3.jpg",
+    "description": "PARTE I\nA INQUISIÇÃO"
+  },
+  {
+    "path": "comics/bv/4.jpg",
+    "description": "APOIADO POR FORÇAS DA ESQUERDA PERNAMBUCANA, JOAQUIM VIDAL É ELEITO GO VERNADOR DO ESTADO EM 1962, NUMA APERTADA ELEIÇÃO CONTRA CONSERVADORES.\nEM SEU CURTO MANDATO, LUTOU PARA ATENUAR A CRUEL DESIGUALDADE SOCIAL QUE ASSOLA A REGIÃO, ABRINDO O DIÁLOGO COM A CLASSE TRABALHADORA.\nEM CONSONÂNCIA COM ANTIGAS REIVINDICAÇÕES SOCIAIS, NEGOCIOU A IMPLEMENTAÇÃO DO SALÁRIO MÍNIMO PARA HOMEM DO CAMPO ATRAVÉS DO PACTO CAMPESINO; ALÉM DE ARTICULAR UM PROGRAMA DE ALFABETIZAÇÃO CHAMADO LETRAMENTO UNIVERSAL.\nPOSTOU-SE, EVIDENTEMENTE, DIANTE DA MIRA DOS MILITARES QUE, ENTRE 31 DE MARÇO E 1º DE ABRIL DE 1964, PERPETRARAM UM GOLPE DE ESTADO NO PAÍS.\nAO CERCAR A SEDE DO GOVERNO, MEMBROS DO EXÉRCITO PRETENDIAM OBRIGÁ-LO A ADERIR AO NOVO REGIME, RENUNCIAR AO MANDATO OU ENCARAR A PRISÃO..."
+  },
+  {
+    "path": "comics/bv/5.jpg",
+    "description": "NESTE EXATO MOMENTO, AS TROPAS DO EXÉRCITO, COMO FAMÉLICOS ABUTRES, CERCAM A SEDE DO GOVERNO ESTADUAL. TÊM O INTUITO DE PROMOVER UMA INDECOROSA NEGOCIATA EM DESONRA A MIM E AO SENHOR PRESIDENTE DA REPÚBLICA. QUEREM ELES MINHA SUBORDINAÇÃO AO NOVO REGIME, INVALIDANDO ASSIM O MEU MANDATO, CONCEDIDO LEGITIMAMENTE PELO POVO PERNAMBUCANO.\nDO CAIS AO SERTÃO, CUMPRI MEUS DEVERES ENQUANTOCHEFE DE ESTADO, SEMPRE EM CONCOR DÂNCIA COM A LEI, SEMPRE NORTEADO PELA VONTADE DO POVO. PORTANTO, NÃO RENUNCIO NEM ABANDONO MEU MANDATO. NÃO POSSO. ELE PERTENCE À MINHA PESSOA E AO ELEITORADO QUE REPRESENTO.\nCOM MUITO ORGULHO, ELE NOS ACOMPANHARÁ COMOUM ALVO NAS COSTAS, POIS O POVO DE PERNAMBUCO JAMAIS ACEITARIA QUE SEU GOVERNADOR PARTICIPASSE DE TÃO TENE BROSA TRANSAÇÃO. E EMBORA SAIO DAQUI UM HOMEM MARCADO, REPITO O QUE DIZ O POETA: “ESTA MARCA TEMERÁRIA, ENTRE A CINZA DAS ESTRELAS, HÁ DE UM DIA SE APAGAR”."
+  },
+  {
+    "path": "comics/bv/6.jpg",
+    "description": "OLHA LÁ, O HOMEM NÃO ARREGOU.\nO CABRA É COMUNISTA MAS É SUSTENTO\nSEU JOAQUIM, O SENHOR ESTÁ DISPOSTO A RENUNCIAR O DEMÔNIO?\nDADAS AS CIRCUNSTÂNCIAS, NÃO CREIO QUE SEJA A HORA DE CRIAR INIMIZADES COM OS INIMIGOS DOS MEUS INIMIGOS."
+  },
+  {
+    "path": "comics/bv/7.jpg",
+    "description": "... FAVOR CONSERVAI A PUREZA DOS INFANTES, A DECÊNCIA DOS LARES, O RESPEITO POR PAIS E MESTRES E A DEVOÇÃO DAS MÃES.\nRESTABELECEI O EQUILÍBRIO DOS COSTUMES E O TRANSMITA ÀS NOSSAS CRIANÇAS E JOVENS.\nAMPARAI OS FRACOS E CONSOLAI OS AFLITOS.\nAOS GOVERNANTES, ORIENTAI-OS, FAZEI COM QUE PROPRIAMENTE ORDENEM O MUNDO, NÃO DESVIANDO JESUS CRISTO DO CORAÇÃO.\nNOSSA SENHORA APARECIDA, PADROEIRA DO BRASIL, ROGAI POR NÓS. AMÉM."
+  },
+  {
+    "path": "comics/bv/8.jpg",
+    "description": "MUITO BEM, ANTES DE IRMOS PARA AS NOSSAS RESPECTIVAS SALAS DE AULA, REZEMOS O PAI-NOSSO\n“PAI-NOSSO QUE ESTÁS NO CÉU, CHEIO DE TODO TIPO DE PROBLEMAS, COM A TESTA FRANZIDA, COMO SE FOSSES UM HOMEM VULGAR E COMUM, NÃO PENSES MAIS EM NÓS.\nCOMPREENDEMOS QUE SOFRES PORQUE NÃO PODES CONSERTAR AS COISAS.\nSABEMOS QUE O DEMÔNIO NÃO TE DEIXA TRANQUILO, DESCONSTRUINDO O QUE CONSTRÓIS.\nELE SE RI DE TI. PORÉM NÓS CHORAMOS CONTIGO: NÃO TE PREOCUPES COM SEUS RISOS DIABÓLICOS.\nPAI-NOSSO QUE ESTÁS ONDE ESTÁS RODEADO DE ANJOS DESLEAIS, SINCERAMENTE: NÃO SOFRAS MAIS POR NÓS. TENS QUE TE DARES CONTA DE QUE OS DEUSES NÃO SÃO INFALÍVEIS E QUE NÓS PERDOAMOS TUDO.”"
+  },
+  {
+    "path": "comics/bv/9.jpg",
+    "description": "MENINAS, O SEMESTRE JÁ SE ENCAMINHA PARA O FIM E, DEVO DIZER, O COMPORTAMENTO APRESENTADO POR ALGUMAS DE VÓS NÃO ESTEVE À ALTURA DO QUE SE ESPERA DA NOSSA INSTITUIÇÃO.\nSUBLINHA- SE, CONSEQUENTEMENTE, QUE ESTA ESCOLA É UM DOS MUITOS CONDUTORES PELOS QUAIS NOSSO SAGRADO PAI TRANSMITE SUA PALAVRA."
+  },
+  {
+    "path": "comics/bv/10.jpg",
+    "description": "HUM...\nVAIDADE, VULGARIDADE, USURA, CONSTANTES DESCOMPOSTURA E DESATENÇÃO.\nNÃO SÃO QUALIDADES ATRAENTES AOS OLHOS DESTA INSTITUIÇÃO E, POR CONSEGUINTE, AOS OLHOS DE DEUS.\nESSAS NÃO SÃO CARACTERÍSTICAS QUE ESPERAMOS DAS NOSSAS ALUNAS.\nFIQUEMOS COM A PASSAGEM I SÃO PEDRO, CAPÍTULO 3, VERSÍCULOS 3 A 6, PARA ILUSTRAR:"
+  },
+  {
+    "path": "comics/bv/11.jpg",
+    "description": "“CABELOS TRANÇADOS, ORNAMENTOS DE OURO, VESTIDOS ELEGANTES;\n“NÃO SEJA O VOSSO ADORNO O QUE APARECE EXTERNAMENTE:\n“MAS TENDE AQUELE ORNATO INTERIOR E OCULTO DO CORAÇÃO, A PUREZA INCORRUPTÍVEL DE UM ESPÍRITO SUAVE E PACÍFICO, O QUE É TÃO PRECIOSO AOS OLHOS DE DEUS.\n“ERA ASSIM QUE OUTRORA SE ORNAVAM AS SANTAS MULHERES QUE ESPERAVAM EM DEUS;\n“ERAM SUBMISSAS A SEUS MARIDOS,\n“COMO SARA QUE OBEDECIA A ABRAÃO, CHAMANDO-O DE SENHOR."
+  },
+  {
+    "path": "comics/bv/12.jpg",
+    "description": "“DE SARA VOS TORNAIS FILHAS, PELA PRÁTICA DO BEM, SEM TEMOR DE PERTURBAÇÃO ALGUMA”.\nMENINAS, NÓS SOMOS UM LAGO NO QUAL SE BANHA DEUS.\nDE NADA ADIANTA SERMOS LARGAS, SE SOMOS RASAS, POIS NÃO OFERTAR-LHE-ÍAMOS A POSSIBILIDADE DE IMERGIR POR COMPLETO.\nMAS, SE SOMOS PROFUNDAS, ELE MERGULHARÁ EM NOSSA CAVIDADE E EXPLORARÁ NOSSAS PROFUNDEZAS."
+  },
+  {
+    "path": "comics/bv/13.jpg",
+    "description": "EU VOU CONTAR CINCO SEGUNDOS...\n... PRA VOCÊS DAREM UM ÚLTIMO TRAGO, APAGAREM A BRASA E DEIXAREM A CARTEIRA E A CAIXA DE FÓSFOROS AQUI\nUM, DOIS, TRÊS, QUATRO, CINCO."
+  },
+  {
+    "path": "comics/bv/14.jpg",
+    "description": "HIHIHI..."
+  },
+  {
+    "path": "comics/bv/15.jpg",
+    "description": "AO LONGO DO SEMESTRE, PEDI QUE VASCULHÁSSEIS REVISTAS E OUTRAS PUBLICAÇÕES EM BUSCA DE SANTINHOS PARA COMPOR O VOSSO PROPRIO ÁLBUM DO ANO DA GRAÇA DE 1966.\nENTÃO É HORA! POR FAVOR, VAMOS AVALIAR COMO ANDA A EMPREITADA.\nADERLIZE AMARAL...\nAQUI ESTÁ O MEU, PROFESSORA."
+  },
+  {
+    "path": "comics/bv/16.jpg",
+    "description": "BEATRIZ CASTRO...\nDIANA CARNEIRO...\nJOSELMA DA PAZ...\nLUIZA DE SOUZA LEÃO...\nGERTRUDES MENDONÇA...\nMARTA VIDAL."
+  },
+  {
+    "path": "comics/bv/17.jpg",
+    "description": "COM MUITO RESPEITO, SENHORA, MEUS SANTINHOS, COMO PEDISTES.\nIRMÃ, SERÁ QUE MARTA VIDAL PODE SE ESCUSAR DA AULA E VIR COMIGO?\nLEVE-A, POR OBSÉQUIO."
+  },
+  {
+    "path": "comics/bv/18.jpg",
+    "description": "TUDO.\nTUDO BOM, MARTA?\nE EM CASA, TUDO CERTO?\nAHAM.\nEU TE TROUXE AQUI PORQUE TENHO UMAS PERGUNTINHAS PARA FAZER. VOCÊ TOPA?\nUHUM.\nÓTIMO! PRIMEIRAMENTE... COMO FOI ESTE SEMESTRE? TÁ GOSTANDO? É DIFERENTE DA OUTRA ESCOLA, NÉ?, QUE TINHA TANTO MENINA QUANTO MENINO\nTÁ SENDO BOM."
+  },
+  {
+    "path": "comics/bv/19.jpg",
+    "description": "COMO SE DÁ A SUA EDUCAÇÃO DE CASA?\nQUE MARAVILHA! OUTRA COISA QUE EU QUERIA SABER DE VOCÊ É...\nAHN?\nE SEU PAI?\nNO SEU LAR, VOCÊ ESTÁ SENDO DISCIPLINADA PELOSPRINCÍPIOS DA EDU CAÇÃO CRISTÃ?\nMINHA MÃE ACREDITA EM DEUS.\nAGNÓSTICO?\nISSO! MAS ELE NÃO MORA MAIS EM CAS...\nPAPAI É AG... AG...\nAGNÓSTICO, MINHA FILHA, É OUTRA PALAVRA PARA DIZER... ÍMPIO.\nPECADOR, DESCRENTE HEREGE."
+  },
+  {
+    "path": "comics/bv/20.jpg",
+    "description": "MAIS CEDO, DURANTE O BOM DIA, REPAREI QUE VOCÊNÃO ESTAVA REZANDO CORRETA MENTE O PAI-NOSSO. ESTÁ TENDO DIFICULDADES? NÃO DECOROU AINDA SUAS REZAS?\nAHAM:“PAI-NOSSO-QUE-ESTÁS NO-CÉU-SANTIFICADO-SEJA-VOSSO-NOME-SEJA-FEITA-A-VOSSA VONTADE...”\nE O QUE VOCÊ ESTAVA PRONUNCIANDO ALI? NÃO ERA O PAI-NOSSO. NÃO O QUE EU CONHEÇO.\nUM POEMA QUE PAPAI ME ENSINOU.\nE DE QUEM É ESSE POEMA? É DE AUTORIA DO SEU PAI?\nNÃO SEI..."
+  },
+  {
+    "path": "comics/bv/21.jpg",
+    "description": "MENOSPREZA A FÉ CATOLICA?\nE ESSE POEMA, POR ACASO DEBOCHA DO PAI-NOSSO?\nNÃO... ACHO QUE NÃO.\nN...\nEVOCA O PAGANISMO, OU SENTIMENTOS IMPUROS?\nEMPENHA-SE EM ESPALHAR A DESCRENÇA NO CORAÇÃO DOS INOCENTES?\nDEDICA-SE A DESMORONAR NOSSOS COSTUMES?\nDISTORCE AS PALAVRAS SAGRADAS, HÁ MUITO DITADAS E GRAVADAS NA ROCHA DA ETERNIDADE?"
+  },
+  {
+    "path": "comics/bv/22.jpg",
+    "description": "VOCÊ SABE QUAL É NOSSO MAIOR PAPEL AQUI, COMO EDUCADORAS?\nNÃO..."
+  },
+  {
+    "path": "comics/bv/23.jpg",
+    "description": "SUPRIR A CARÊNCIA DE FORMAÇÃO RELIGIOSAADVINDA DO AMBI ENTE FAMILIAR.\nQUAL É SEU SANTO PADROEIRO, QUERIDA?\nNÃO SEI.\nQUE TAL SÃO JOSÉ?, PADROEIRO DAS FAMÍLIAS.\nAH, POIS TEMOS QUE LHE ARRANJAR UM.\nPODE SER...\nMARTINHA, POSSO TE MOSTRAR UMA COISA?\nO QUÊ?"
+  },
+  {
+    "path": "comics/bv/24.jpg",
+    "description": "SE LEVANTA, DEIXA EU TE MOSTRAR\nO QUE É?\nÉ UM MILAGRE!\nESTENDA A MÃO\nESTÁS VENDO, MARTA?\nESTOU IMPREGNADA PELA SANTÍSSIMA SEMENTE, INVADIDA PELO FULGOR DO ESPÍRITO SANTO, TOCADA E ESCOLHIDA PELO DIVINO.\nÉ UMA BÊNÇÃO!\nDEUS TUDO PODE."
+  },
+  {
+    "path": "comics/bv/25.jpg",
+    "description": "O CIGARRO ESTAVA COM LÚCIA, CARLA E DIANA.\nRONDA:\nO “SANTINHO” DE JOAQUIM VIDAL, VOCÊS JÁ DEVEM SABER, É DA PRÓPRIA FILHA DO COMUNISTA.\nPOR ÚLTIMO, ME DEPAREI COM ODETE E VÂNIA... DESAFIANDO A NATUREZA DIVINA.\nAPROFES SORA APOLÔNIA APREENDEU EM SALA DE AULA.\nJÁ ESTÃO SENDO SEVERAMENTE PUNIDAS."
+  },
+  {
+    "path": "comics/bv/26.jpg",
+    "description": "É POR ISSO QUE, EM NOME DA HIGIENE, DA PEDAGOGIA E DA MORAL, CREIO PROFUNDAMENTE QUE SE DEVA EXCLUIR QUALQUER FORMA DE EDUCAÇÃO SEXUAL NA ESCOLA.\nALIÁS, A EXPRESSÃO “EDUCAÇÃO SEXUAL” DEVERIA SER SUBSTITUÍDA POR “EDUCAÇÃO DA PUREZA”, E A MATÉRIA SÓ PODERIA SER LECIONADA POR PAIS OU PARENTES MAIS VELHOS.\nTODA E QUALQUER PRECISÃO ANATÔMICO-CIENTÍFICA DEVE SER ANIQUILADA, E O FOCO PRECISA ESTAR NA SUA CONSAGRAÇÃO DIVINA.\nÉ VERDADE. BOTÕES DE ROSAS NÃO SÃO COMO A CONCHA BIVALVE DA OSTRA, PARA SEREM ABERTAS POR MÃOS GROSSEIRAS E IMUNDAS.\nSE A ESCOLA MODERNA CONTINUAR A FRISAR EXCLUSIVAMENTE OS ASPECTOS SECULARES, AO INVÉS DE SE VOLTAR A DEUS – PEDRA FUNDAMENTAL DO UNIVERSO –, DEMOLIRÁ DE MANEIRADEFINITIVA A MORALI DADE DA NOSSA JUVENTUDE.\nCOMO TORNÁ LAS BOAS FILHAS, BOAS ESPOSAS E, PRINCIPALMENTE, BOAS CRISTÃS, DISPOSTAS A CONTRIBUÍREM COM O NOSSO CRESCIMENTO ENQUANTO SOCIEDADE?"
+  },
+  {
+    "path": "comics/bv/27.jpg",
+    "description": "ESTA SOCIEDADE JÁ ESTÁ COMPLETAMENTE PERDIDA! A TÍTULO DE EXEMPLO, JÁ NÃO SE RESPEITA A ABSTINÊNCIA DO CONSUMO DE CARNES NAS SEXTAS-FEIRAS DA QUARESMA.\nSE ESTE SIMPLES COSTUME ESTÁ FADADO À DESCONSIDERAÇÃO, COMO É QUE VAMOS INCUTIR O AMOR DE CRISTO NO CORAÇÃO DESSAS MENINAS?\nNÃO ADIANTA BUSCAR OS MEIOS QUE FAVORECEM E DESENVOLVEM A VIDA DA GRAÇA, OU SEJA, OS SACRAMENTOS E AS BOAS OBRAS.\nNÃO NOS SERVE AFASTAR OS PERIGOS QUE PODEM LEVAR AO ENFRAQUECIMENTO OU ATÉ À MORTE DA VIDA SOBRENATURAL.\nNÃO SURTE EFEITO EVIDENCIAR OS MALES DOSPECADOS DA CARNE; DAS CONSE QUÊNCIAS FÍSICAS E METAFÍSICASDECORRENTES DO EMPARELHA MENTO COM O COISA-RUIM.\nJÁ SÃO TODAS UMAS DEGENERADAS! CONTINUARÃO SENDO, INDEPENDENTEMENTE DOS ALARDES.\nA TEOLOGIA NÃO SERÁ A ARMA MAIS POTENTE PARA A NOSSA CRUZADA.\nA ÚNICA FERRAMENTA QUE NOS RESTA É O MEDO."
+  },
+  {
+    "path": "comics/bv/28.jpg",
+    "description": "EI, ELEMENTO DE COLORAÇÃO AVERMELHADA! OLHA PRA CÁ!\nO MEU CHAMA DE “DIRIGENTE DA ESCUMALHA DOS CANHOTOS”.\nMEU PAI CHAMA O PAI DELA DE “DESPACHANTE DE KARL MARX”.\nO QUE É UM KARL MARX?\nVAMOS PRA CASA, MAMÁ?"
+  },
+  {
+    "path": "comics/bv/29.jpg",
+    "description": "QUERIDOS, TUDO CERTINHO? COMO FOI A AULA?\nJÁ ENTENDI TUDO.\nENTÃO VÃO ESFRIAR A CABEÇA COM UM BANHO, VIU?"
+  },
+  {
+    "path": "comics/bv/30.jpg",
+    "description": "E LOGO, QUE SUA TIA JÁ PREPAROU O JANTAR.\nFIM DE SEMESTRE?\nFARDO CRISTÃO."
+  },
+  {
+    "path": "comics/bv/31.jpg",
+    "description": "ONDE É QUE PAPAI TÁ MESMO?\nMAMÃE...\nEU JÁ TE DISSE, MINHA FILHA. SEU PAI ESTÁ COM VOZINHA, NO INTERIOR.\nE QUANDO A GENTE VAI VER ELE?"
+  },
+  {
+    "path": "comics/bv/32.jpg",
+    "description": "MENINOS, JÁ FALEI PRA VOCÊS DO MITO GREGO DE SÍSIFO?\nQUERO OUVIR!\nTAMBÉM NÃO, TIA!\nNÃO...\nÉ UM NOME ESQUISITO, NÉ, MARTINHA?\nME ESPERA, ÔÔÔ!\nUNRUM..."
+  },
+  {
+    "path": "comics/bv/33.jpg",
+    "description": "ENFIM... NA GRÉCIA ANTIGA, SÍSIFO ERA O MAIS SABIDO DE TODOS OS MORTAIS. UM CABRA MUITO AFEITO A SAFADEZAS, PRESEPADAS E MAQUINAÇÕES.\nUMA VEZ, SÍSIFO VIU QUE ZEUS ESTAVA SE ENGRAÇANDO PARA A FILHA DE ASOPO, O DEUS-RIO. ENTÃO, EM TROCA DE UMA FONTE DE ÁGUA, ELE FOI LÁ E CAGUETOU O SENHOR DOS TROVÕES PARA O PAI DILIGENTE.\nQUANDO ZEUS SOUBE QUE FOI DEDURADO, FICOU FULO E, COMO CONSEQUÊNCIA, ENVIOU TÂNATO, UM CAPANGA SEU, PARA IR CAPTURAR O SEM-VERGONHA."
+  },
+  {
+    "path": "comics/bv/34.jpg",
+    "description": "NA CHEGADA DE TÂNATO À TERRA, SÍSIFO BOTOU UM SORRISO SEDUTOR NO ROSTO.\nQUE LINDOS CACHINHOS VOCÊ TEM! QUE CORPO ESBELTO!\nESTOU VENDENDO COLARES E TEM UM AQUI QUE VAI FICAR UM LUXO NO SENHOR!\nAO VESTIR O COLAR, TÂNATO PERCEBEU QUE ERA, NA VERDADE, UMA COLEIRA. ALI MESMO ELE FICOU PRESO E SÍSIFO ESCAPOU À MORTE PELA PRIMEIRA VEZ.\nVOLTA AQUI, CABRA SAFADO!"
+  },
+  {
+    "path": "comics/bv/35.jpg",
+    "description": "ANOS DEPOIS, QUANDO JÁ ESTAVA MAIS VELHO E TINHA DADO A SUA HORA, SÍSIFO PEDIU PRA SUA ESPOSA NÃO ENTERRAR SEU CORPO. APÓS DAR SEU ÚLTIMO SUSPIRO E CHEGAR NO SUBMUNDO DE HADES, DISSE-LHE QUE ELA NÃO HAVIA CUMPRIDO COM AS SUAS OBRIGAÇÕES FUNERÁRIAS.\nENTÃO, SÍSIFO ENTROU FORMALMENTE COM UM PEDIDO DE RETORNO AO MUNDO DOS VIVOS PARA SE VINGAR. O PEDIDO FOI ACATADO POR HADES E ELE SUBIU.\nSEU HADES, TUDO BOM? EU SOU O SECRETÁRIO DO DOUTOR SÍSIFO. O SENHOR TEM DOIS MINUTINHOS?\nQUANDO CHEGOU LÁ, ELE E A ESPOSA DERAM UMA CARREIRA E FUGIRAM DAS GARRAS DOS DEUSES. E, PELA SEGUNDA VEZ, SÍSIFO ESCAPOU DA MORTE.\nCALMA O QUÊ, MULHER? ACELERA QUE OS HÔMI TÃO NA COLA!\nCALMA, SISSI, DEIXA DE SER AVEXADO!"
+  },
+  {
+    "path": "comics/bv/36.jpg",
+    "description": "JÁ VELHINHO, PASSADA E MUITO A SUA HORA, SÍSIFO MORREU A ÚLTIMA VEZ. ZEUS NÃO TEVE DÚVIDA: MANDOU O CONFIÁVEL HERMES BUSCÁ-LO NA TERRA.\nALGUÉM VÊ O PULSO, PRA GARANTIR.\nFINALMENTE DE VOLTA AO SUBMUNDO, POR TUDO QUE FEZ EM VIDA, OS DEUSES DERAM A SÍSIFO A PIOR DE TODAS AS PUNIÇÕES. FORAM COM ELE ATÉ A COZINHA E LHE MOSTRARAM UMA PIA GIGANTESCA, REPLETA DE LOUÇA SUJA. ENTÃO, UM DOS SEUS CÁRCERES, APONTANDO PARA A CENA, EXPLICOU-LHE:\nA PIA SERÁ TUA CHAGA ABERTA, E ETERNAMENTE LAVARÁS; POIS NÃO HÁ PUNIÇÃO MAIS TERRÍVEL DO QUE O  TRABALHO INÚTIL  E SEM ESPERANÇA.\nTODA VEZ QUE TERMINARES DE LAVAR UM ITEM, SÍSIFO, OUTROS DOIS SURGIRÃO, MAIS VIS E PODRES QUE O ANTERIOR."
+  },
+  {
+    "path": "comics/bv/37.jpg",
+    "description": "AFINAL, DE QUE ADIANTA LIMPAR UM PRATO SE, DAQUI A DOIS TEMPOS, ELE FICARÁ SUJO NOVAMENTE?\nQUER DIZER QUE A GENTE NÃO PRECISA MAIS LAVAR PRATO, TIA?\nEU ACHO QUE SIGNIFICA: PAGUE SEUS PECADOS EM VIDA...\nPRA NÃO TER QUE SE ENCONTRAR COM ELES NA ETERNIDADE."
+  },
+  {
+    "path": "comics/bv/38.jpg",
+    "description": "E TAMBÉM QUE LAVAR LOUÇA É UM NEGOCIO CHATO QUE SÓ A PESTE.\nQUE LINDO!\nACHO QUE É POR ISSO QUE, NAS FESTAS, OS GREGOS QUEBRAM OS PRATOS DEPOIS DE COMER.\nVOU PRA SALA AGORA, TÁ?, DESCANSAR AS PERNAS. BOM SERVIÇO AOS SÍSIFOS DE HOJE. QUE NÃO SEJAM OS SÍSIFOS DE AMANHÃ."
+  },
+  {
+    "path": "comics/bv/39.jpg",
+    "description": ""
+  },
+  {
+    "path": "comics/bv/40.jpg",
+    "description": "PARTE II\nO RETORNO"
+  },
+  {
+    "path": "comics/bv/41.jpg",
+    "description": "APÓS SER DEPOSTO DO CARGO DE GOVERNADOR DE PERNAMBUCO PELO GOLPE DE 1964, JOAQUIM VIDAL É PRESO EM UM QUARTEL MILITAR NA ILHA DE FERNANDO DE NORONHA. DEPOIS DE DOIS ANOS EM RECLUSÃO, UM PEDIDO DE HABEAS CORPUS É ACATADO PELO SUPREMO TRIBUNAL FEDERAL, FINALMENTE COLOCANDO-O EM LIBERDADE.\nAGORa BASEADO NA ÁFRICA, ATUA COMO CONSULTOR PARA LÍDERES POPULARES DA LUTA ANTICOLONIAL NO CONTINENTE, PRINCIPALMENTE NOS PAÍSES LUSÓFONOS. MESMO À DISTÂNCIA, TAMBÉM SE ARTICULA COM INTELECTUAIS,  POLÍTICOS E ARTISTAS EM FRENTES DE OPOSIÇÃO À DITADURA MILITAR NO BRASIL.\nO EXÍLIO SE TORNA ALGo IMPERATIVO. O DESTINO ESCOLHIDO É A ARGÉLIA, À ÉPOCA CONHECIDA COMO A “MECA DOS REVOLUCIONÁRIOS”. A CONSTITUIÇÃO DO PAÍS DITAVA QUE TODOS OS QUE LUTASSEM PELA LIBERDADE TERIAM ALI UM ABRIGO.\nEM 1979, COM A LEI DA ANISTIA, VIDAL RESOLVE RETORNAR AO BRASIL. ÀS VESPERAS DE SUA CHEGADA, CARTAZES BROTAM NOS MUROS DE PERNAMBUCO ANUNCIANDO O FATO.\n16 de dezembro volta vidal 7 da noite no bairro de santo amaro"
+  },
+  {
+    "path": "comics/bv/42.jpg",
+    "description": "COMPANHEIRAS E COMPANHEIROS, AQUI ESTAMOS NOVAMENTE, BANHANDO-NOS NO DESAGUAR DE MAIS UM PROCESSO HISTÓRICO. EMBORA TEIMEMOS EMFINCAR NOSSOS PÉS NA LAMA, CON QUANTO NOS ABRACEMOS AO LEITO DO RIO, UMA TROMBA D’ÁGUA NOS LANÇA AO ALTO-MAR SEM UM PINGO DE CERIMÔNIA.\nOS VENTOS AGORA SÃO OUTROS E, PORTANTO, NOS TRANSPORTAM DIFERENTEMENTE. NÃO SOPRAM SERVIS, COMO A BRISA. GIRAM, FEITO O CICLONE, NUM MOVIMENTO FEBRIL. ASSOVIAM ALTO PARA QUEM QUISER OUVIR. ALCANÇAM CONCHAS E DEVOLVEM O SOM DO MAR. SONHAM EM NOS LEVAR. ANSEIAM SEREM ENGARRAFADOS POR NÓS.\nVOLTO. É BOM VOLTAR! RETORNO PELO REENCONTRO. PORÉM, SIGO COM O CURSO DA ÁGUA E COM O APITO DO VENTO. SIGO, SOBRETUDO, COM O TEMPO. SE PERDEMOS O PASSADO, SE SOFREMOS COM O PRESENTE, SOMENTE O TEMPO, E SEUS ETERNOS PORVIRES, PODE SER MATÉRIA-PRIMA PARA A ESPERANÇA. SIGAMOS JUNTOS!"
+  },
+  {
+    "path": "comics/bv/43.jpg",
+    "description": "O DOUTOR CHEGOU.\nEDGAR..."
+  },
+  {
+    "path": "comics/bv/44.jpg",
+    "description": "DOUTOR VIDAL, POSSO LHE FAZER UMA PERGUNTA?\nCLARO, MEU FILHO, FAÇA A SEGUNDA.\nO SENHOR FOI O ÚLTIMO GOVERNADOR ELEITO PELO VOTO DIRETO EM PERNAMBUCO. NOS ÚLTIMOS ANOS, EM CARTAS DIVULGADAS PELA IMPRENSA, O SENHOR PARECEU CÉTICO QUANTO À ABERTURA POLÍTICA NO BRASIL.\nBOM... ESSA TÁ MAIS UMA PRA UMA AFIRMAÇÃO. TUDO BEM SE EU RESPONDÊ-LA MESMO ASSIM?"
+  },
+  {
+    "path": "comics/bv/45.jpg",
+    "description": "ME DESCULPE O NERVOSISMO, DOUTOR. MINHA MÃE DISSE QUE, SE EU PERGUNTASSE ALGUMA BESTEIRA PRO SENHOR, ELA ME DESCIA UMA CAMBADA DE PAU.\nDIGA A SUA MÃE QUE PERGUNTA BESTA É SILÊNCIO.\nPODE DEIXAR!\nENTÃO LIGA TEU TRECO AÍ E VAMOS EM FRENTE!\nEITA, TINHA ESQUECIDO!"
+  },
+  {
+    "path": "comics/bv/46.jpg",
+    "description": "entrevista: joaquim vidal\nRelatos do desterro\nEx-governador do Estado de Pernambuco dá sua primeira entrevista individual à imprensa após exílio na Argélia, opina sobre a Lei da Anistia e fala do futuro.\nFora do país desde 1965, o ex-governador de Pernambuco Joaquim Vidal retorna e é recebido calorosamente pela população em ato realizado no Bairro de Santo Amaro, centro da cidade. O político se mostra preocupado com a situação socio-econômica do país e já age como pré-candidato.\n\nNos últimos anos, em cartaz divulgadas na imprensa nacional, o senhor pareceu bastante cético quanto à abertura política. Esta continua sendo sua visão?\nSim, e o ceticismo pernamece. A abertura, e consequentemente a Anistia, embora presentemente me favoreça, é, ao contrário do que se coloca, restrita e limitada. A abertura, como é proposta, trata-se de uma estratégia ardil de perpetuar um regime cansado. No meu entendimento, todas as salvaguardas deveriam ser suspensas e o poder de decisão política, recolocado nas mãos do povo.\n\nDurante o seu tempo na Argélia, continuou fazendo política?\nLá fora, não me liguei a nenhuma das chamadas correntes internacionais e não me filiei a quaisquer facções. Continuei fiel à única corrente que puxa a carroça em cima da qual me locomovo: os anseios do povo. Não fiz associações estritas, mas, sim respondendo à pergunta, fiz bastante política. Como diz a sabedoria popular, \"mente vazia, oficina do diabo\"."
+  },
+  {
+    "path": "comics/bv/47.jpg",
+    "description": "SAIR DO BRASIL, DE ALGUMA FORMA, AMPLIOU SEUS HORIZONTES POLÍTICOS?\nNA QUALIDADE DE GOVERNADOR DE PERNAMBUCO, ME FOI INCUBIDA A RESPONSABILIDADE DE VISITAR LUGARES DIVERSOS, O QUE FIZ, COM TREMENDO SENSO DE COMPROMISSO E GOZO. AO MEU VER, O TURISTA VIVE O NÃO-PERTENCIMENTO VOLUNTÁRIO, OU SEJA, ESTAR NUM LUGAR POR VONTADE PRÓPRIA, EMBORA NÃO TOTALMENTE FAMILIARIZADO. NA SITUAÇÃO QUE ME FOI EMPURRADA GOELA ABAIXO, EM CERTA MEDIDA VIVI O AMARGOR DOS INDIGENTES E DOS REFUGIADOS: UM NÃO-PERTENCIMENTO NÃO-VOLUNTÁRIO. DIGO \"EM CERTA MEDIDA\" PORQUE COMPREENDO MEU LUGAR EM MEIO A PROFUSÃO DE REALIDADES BRASILEIRAS, MUITO DIFERENTES E, EM SUA GRANDE MAIORIA, MAIS SOFRIDAS DO QUE A MINHA.\n\nO JOAQUIM QUE SAIU É O MESMO QUE VOLTOU?\nAS CIRCUNSTÂNCIAS CERTAMENTE MUDARAM, MAS MEUS PRINCÍPIOS CONTINUAM OS MESMOS. PERNAMBUCO, PELO QUE JÁ OUVIRA FALAR E AGORA POSSO CONSTATAR, MUDOU. A MISÉRIA, QUE JÁ ERA UM PROBLEMA GRAVE DO NOSSO POVO, SE INTENSIFICOU DURANTE O REGIME, E NÃO DÁ SINAL DE PARADA.\n\nO SENHOR FALA DE SOCIALISMO? COMUNISMO? QUAIS SÃO OS PRINCÍPIOS QUE REGEM O SENHOR?\nCONHECE A HISTÓRIA DOS SAPATEIROS? DIZ QUE CERTO DIA OS SAPATEIROS DE UMA CIDADE DEIXARAM DE FAZER SAPATOS PARA FAZER LEIS. E ENTÃO, AS LEIS SAÍRAM RUINS E TODO MUNDO PASSOU A ANDAR DESCALÇO. É ENGRAÇADO, NÃO É? MAS É TAMBÉM FALACIOSO. POR ISSO, SOU DA TESE CONTRÁRIA. SE NÃO HOUVER SAPATEIROS PARA FAZEREM SUAS PRÓPRIAS LEIS, QUEM VAI SE DAR AO TRABALHO DE FAZER POR ELES? NO MEU PRIMEIRO GOVERNO, FIZEMOS O CHAMADO PACTO CAMPESINO. BOTAMOS O CORTADOR DE CANA PARA NEGOCIAR SEUS DIREITOS NA MESMA MESA DO USINEIRO. DAÍ SAIU A OBRIGATORIEDADE DO SALÁRIO MÍNIMO PARA A CLASSE, DENTRO DE UMA SÉRIA DE OUTROS BENEFÍCIOS, QUE NÃO SÃO TANTO BENEFÍCIOS QUANTO SÃO DIREITOS. E, SEM SURPRESA ALGUMA, CONSTATAMOS QUE A CANA CONTINUAVA A SER CORTADA. E O TRABALHADOR, UM POUCO MENOS FUSTIGADO. HÁ MUITO QUE SE FAZER AINDA. ESTES SÃO MEUS PRINCÍPIOS.\n\nPUXANDO O GANCHO DE IDEOLOGIAS, OU FILOSOFIAS. POLÍTICAS PÚBLICAS E TUDO O MAIS. EM ALGUM MOMENTO DA SUA TRAJETÓRIA POLÍTICA, VOCÊ DIRIA QUE ERROU?\nERRARE HUMANUM EST, SED PERSEVERARE DIABOLICUM EST. O ERRO É HISTORICAMENTE CONTINGENTE, COMO TAMBÉM É O ACERTO. DIANTE DO QUE OS MILITARES PUNHAM HÁ QUINZE ANOS, ERRAR PARECIA SER O MAIS APROPRIADO. PERMANECER NO ERRO, AINDA MAIS. E SE MINHA HUMANIDADE TEVE DE SE APEGAR AO DIABO NOS MOMENTOS EM QUE DEUS ME ABANDONOU É PORQUE, EM ALGUM MOMENTO, ESSAS DUAS ENTIDADES TROCARAM DE LUGAR. É TEMPO DE RETORNAR À ORDEM NATURAL DAS COISAS."
+  },
+  {
+    "path": "comics/bv/48.jpg",
+    "description": "TENHO OUTRA PERGUNTA, DOUTOR.\nDIGA, MEU FILHO.\nOUVI DIZER QUE O SENHOR, POUCO ANTES DE ABRIL DE 64, FOI LÁ NO RIO DE JANEIRO, SE ENCONTRAR COM SARKIS PARADJANOV KHAN\nPERGUNTO PORQUE ACHO A COISA TODA MUITO CURIOSA.\nSARKIS KHAN É UMA DAS FIGURAS MAIS OBSCURAS DA HISTÓRIA POLÍTICA DO BRASIL.\nENTÃO, TE QUESTIONO: O QUE AQUELE DANADO FAZIA, FINALMENTE?"
+  },
+  {
+    "path": "comics/bv/49.jpg",
+    "description": "SARKIS ERA UM OCULTISTA. ASTRÓLOGO, MAGO. UM TIPO BEM PECULIAR DE QUIROMANTE.\nTUDO QUE SEI É QUE APORTOU DA ARMÊNIA POUCO ANTES DE ESTOURAR A SEGUNDA GUERRA MUNDIAL. TEVE UMA DE SUAS MUITAS VISÕES, QUE O IMPELIU A ATRAVESSAR O OCEANO.\nE É VERDADE O QUE CORRE NA BOCA MIÚDA? QUE ELE PREVIU TAMBÉM O GOLPE MILITAR?\nDIZEM TAMBÉM QUE O ATENTADO A JANGO. E O SUICÍDIO DE VARGAS, O RESULTADO DA CAMPANHA DE JÂNIO QUADROS, O SEU EXÍLIO...\nEITA, ELE PREVIU QUE O SENHOR SERIA EXILADO?"
+  },
+  {
+    "path": "comics/bv/50.jpg",
+    "description": "VAMOS, JOCA, APERTA O PASSO!"
+  },
+  {
+    "path": "comics/bv/51.jpg",
+    "description": "ÀS TRÊS.\nJOCA, PELO AMOR DE DEUS, MARCASSE A QUE HORAS COM ESSE PILANTRA?\nTRÊS E VINTE, JÁ.\nONDE TU OUVIU FALAR DESSE HOMEM, MESMO?\nDA PARTE DE QUEM?\nPODE FICAR TRANQUILA, QUE ELE TEM TODA A CREDIBILIDADE DO MUNDO.\nENTÃO TU TÁS LASCADO, HOME!\nDA CLASSE POLÍTICA DESTE PAÍS, ALZIRA.\nDEIXA DE COISA."
+  },
+  {
+    "path": "comics/bv/52.jpg",
+    "description": "ESTE PARLAPATÃO QUER GANHAR DINHEIRO ÀS NOSSAS CUSTAS, JOAQUIM...\nDOIS MIL E QUINHENTOS CRUZEIROS. TAMBÉM NÃO É O FIM DO MUNDO, ALZIRA...\nSE É COM ESSE TIPO DE DISPLICÊNCIA QUE VOSSA SENHORIA ESTÁ GERINDO A MÁQUINA PÚBLICA DO MEU ESTADO...\nNA MINHA MÃO, DOIS MIL E QUINHENTOS É UM MÊS INTEIRO. OU MAIS!\nTENHO EU INCOMENSURÁVEL COMISERAÇÃO PARA COM SEUS ELEITORES, DOS QUAIS, POR ENQUANTO, AINDA FAÇO PARTE.\nBRABA, NÃO, EU SOU DISPOSTA.\nTU É BRABA, VISSE."
+  },
+  {
+    "path": "comics/bv/53.jpg",
+    "description": "TRÊS E VINTE E CINCO JÁ...\nJOAQUIM VIDAL?\nNOSSA CONSULTA COMEÇAVA HÁ VINTE E CINCO MINUTOS.\nOPA, SOU EU!\nE NÓS CHEGAMOS HÁ QUARENTA.\nDONA DULCE, A SENHORA NÃO VIU O GOVERNADOR E A SUA ESPOSA?\nIRMÃ.\nDESCULPE... O GOVERNADOR E SUA IRMÃZINHA.\nACHEI QUE O SENHOR ESTAVA OCUPADO.\nCOM O QUÊ?, QUE EU NÃO ESTAVA COM CLIENTE.\nIRMÃZINHA?\nNÃO?"
+  },
+  {
+    "path": "comics/bv/54.jpg",
+    "description": "IRMÃZINHA?\nMEU AMOR, VOCÊ VIU ALGUÉM ENTRANDO?\nAI, SERÁ QUE ERA A ALMA?\nO SENHOR ME CHAMOU DE IRMÃZINHA?\nANTES DELES, QUERIDA.\nCOMO NÃO QUERO ABORRECIMENTOS COM O SENHOR, E MUITO MENOS FILHOS, TRATE-ME POR SENHORA.\nSAIBA, MEU SENHOR, QUE INTIMIDADE OU GERA ABORRECIMENTOS, OU GERA FILHOS...\nESSA NÃO É A TERRA DA BOSSA NOVA?"
+  },
+  {
+    "path": "comics/bv/55.jpg",
+    "description": "VAI, JOCA, ADIANTA!\nEU ESPERO AQUI.\nBOM... QUE TALENTRAR MOS?\nGOSTEI DESSA CADEIRA.\nAGORA... SE O SENHOR TIVER O JORNAL DE HOJE, EU AGRADEÇO.\nAAAH, VENHA A SENHORA TAMBÉM. POR QUE NÃO?\nJOCA, NÃO DEMORA, TÁ?\nQUERO CONHECER COPACABANA.\nPOR AQUI, TRABALHAMOS MAIS COM O DE AMANHÃ."
+  },
+  {
+    "path": "comics/bv/56.jpg",
+    "description": "SARKIS, ALGUM DIA VIREI A SER PRESIDENTE DO BRASIL?\nALGUNS OBJETOS RETÊM UM VÍNCULO EXPLÍCITO COM SUA MATÉRIA PRIMA. UMA MESA DE MADEIRA, CRUA, COM SEUS NERVOS À MOSTRA, RECLAMA ATENÇÃO A SEU PARENTESCO COM A ÁRVORE.\nAHN?"
+  },
+  {
+    "path": "comics/bv/57.jpg",
+    "description": "ESTÁ-ME VINDO!\nSÓ EXISTE O PRESENTE, QUE, POR SUA VEZ, TRATA-SE DE UMA COLEÇÃO DE PASSADOS CRUZADOS, BEM OU MAL SUCEDIDOS.\nO FUTURO?"
+  },
+  {
+    "path": "comics/bv/58.jpg",
+    "description": "ESTÁ-ME VINDO UM PASSADO.\nVEJO UM CAVALEIRO VAGANDO SOLITÁRIO NO CREPÚSCULO DA BATALHA DE ALCÁCER-QUIBIR.\nAS TROPAS PORTUGUESAS JÁ FORAM SUBJUGADAS E, ENFIM, APRISIONADAS.\nO CAVALEIRO, PORTUGUÊS, SE DISPERSA PARA LONGE DE TODOS OS OLHOS, PARA DISTANTE DA POSSIBILIDADE DE SE TORNAR ESPÓLIO.\nDE SEU OMBRO, BROTA UM CÓRREGO VERMELHO, QUE JORRA ININTERRUPTAMENTE.\nCOMO UMA MIRAGEM, AVISTA UMA PEQUENA CRATERA. EM SUA DEPRESSÃO, UMA ARGANIA REPOUSA, FORMANDO UMA ESPÉCIE DE REDOMA.\nARRASTANDO-SE EM SUA DIREÇÃO, O CAVALEIRO ALCANÇA A ÁRVORE, DEBAIXO DE ONDE ENCOSTA E SUSPIRA."
+  },
+  {
+    "path": "comics/bv/59.jpg",
+    "description": "MORRER, SIM... MAS DEVAGAR."
+  },
+  {
+    "path": "comics/bv/60.jpg",
+    "description": "O VISLUMBRE DA FACE DE DEUS ESTORVA O CAMINHO NATURAL DO HOMEM.\nESTOU EU, SEBASTIÃO.\nQUEM ESTÁ?"
+  },
+  {
+    "path": "comics/bv/61.jpg",
+    "description": "ENTÃO SOIS DEUS, Ó, GLÓRIA!\nE QUEM SOIS? SOIS DEUS E, PORTANTO, NÃO ME REVELAIS A FACE?\nSOU A ÁRVORE ANCESTRAL. MINHAS FOLHAS SÃO VOCÊS. MEU TRONCO É A LEMBRANÇA DAS FOLHAS QUE JÁ NÃO SÃO, POIS A MEMÓRIA É A PROVA DE QUE O TEMPO NÃO PASSA; ACUMULA.\nCOMO O QUÊ?\nA CHAVE DE CASA, RAPAZ... GUARDEI EM ALGUM LUGAR, BEM GUARDADINHA, MAS ELA FICOU TÃO SEGURA QUE EU JÁ NÃO FAÇO MAIS IDEIA DE ONDE ESTÁ.\nASSIM COMO DEUS É CAPAZ DE CRIAR UMA PEDRA TÃO GRANDE QUE NEM ELE MESMO PODE CARREGAR, DEUS É CAPAZ DE ESCONDER ALGO TÃO BEM QUE NEM ELE PRÓPRIO CONSEGUE ENCONTRAR?\nDISSESTES ISTO JÁ! ESTÁS A VOS REPETIR, TAL QUAL UM PAPAGAIO.\nGALHOFAIS! SOIS, POR CONSEGUINTE, O DIABO A ME CONFUNDIR.\nSOU A ÁRVORE ANCESTRAL E, VOCÊ, UMA DE MINHAS FOLHAS, JÁ EM VIAS DE SE DESTACAR.\n... ANCESTRAL, JÁ SEI! PROVAI-ME QUE SOIS DEUS, POIS. OU ENTÃO REVELAI-VOS, ENFIM, COMO O DIABO.\nQUE TAL ISSO AQUI COMO PROVA?\nO PAPAGAIO É UM ANIMAL, ENQUANTO EU SOU UM VEGETAL: A ÁRVORE..."
+  },
+  {
+    "path": "comics/bv/62.jpg",
+    "description": "DEUS. DEUS DISSE: “FAÇAMOS O HOMEM À NOSSA IMAGEM, CONFORME A NOSSA SEMELHANÇA”\nDEUS. DEUS DISSE: “FAÇAMOS O HOMEM À NOSSA IMAGEM, CONFORME A NOSSA SEMELHANÇA”\nEM SEGUIDA, O HOMEM, COMO BOM SEMELHANTE, FALOU: “FAÇAMOS A PROLE À NOSSA IMAGEM, CONFORME A NOSSA SEMELHANÇA”\nEM SEGUIDA, O HOMEM, COMO BOM SEMELHANTE, FALOU: “FAÇAMOS A PROLE À NOSSA IMAGEM, CONFORME A NOSSA SEMELHANÇA”\nO FILHO DO HOMEM, TEMENTE E SUBMISSO, CARREGOU CONSIGO AS PALAVRAS DO PAI E DE SEU CRIADOR.\nO NETO, ATENTO À TRADIÇÃO, CARREGOU CONSIGO AS PALAVRAS DO PAI, DO AVÔ E DAQUELE QUE OS CRIOU.\nO NETO, ATENTO À TRADIÇÃO, SEGUIU OS PASSOS DOS ANTERIORES.\nO FILHO, TEMENTE E SUBMISSO, REPETIU AS PALAVRAS DO PAI\nPORTANTO, A VAIDADE FOI O ÚNICO TRAÇO PASSADO ADIANTE.\nPORTANTO, A VAIDADE FOI O ÚNICO TRAÇO PASSADO ADIANTE.\nE ASSIM SUCESSIVAMENTE.\nE ASSIM SUCESSIVAMENTE.\nO DIABO. JÁ O DIABO DISSE: “SE DEUS CONVERSA CONTIGO, MINHA PALAVRA ESTÁ NO JOGO”.\nO DIABO. JÁ O DIABO DISSE: “SE DEUS CONVERSA CONTIGO, MINHA PALAVRA ESTÁ NO JOGO”."
+  },
+  {
+    "path": "comics/bv/63.jpg",
+    "description": "CHAMAIS ISTO DE PROVA?\nQUAL ÁRVORE TEM DUAS FOLHAS PELA MANHÃ, UMA PELA TARDE E ZERO À NOITE?\nPOIS ATÉ A ESFINGE DO EGITO É MAIS EXPLÍCITA QUE A ÁRVORE ANCESTRAL.\nNÃO APROVA, A PROVA?\nMAS ENCONTREI A RESPOSTA NAS ENTRELINHAS: SOIS MESMO O DIABO, ENQUANTO VOS PASSAIS POR DEUS, COM TODO ESTE FALATÓRIO!\nOLHA SÓ QUEM AGORA SE REPETE.\nJÁ SABE QUE SOU A ÁRV...\nPELO RISCO, PELO ÍMPETO, PELO SOPRO, ESTÁS HOJE AÍ: ATINGIDO, MANCHADO DE SOMBRA, MARCADO PARA A MORTE. QUERO SABER O QUE VAI FAZER NOS SEUS ÚLTIMOS MOMENTOS.\n... ENTÃO, PELO AMOR DA ÁRVORE ANCESTRAL, DIZEI O QUE QUEREIS!, INDEPENDENTEMENTE DE QUEM SEJAIS."
+  },
+  {
+    "path": "comics/bv/64.jpg",
+    "description": "NÃO CHORAREI. NEM DESESPERAR-ME-EI. MEU REGRESSO É GARANTIDO.\nRETORNOS OU SÃO ETERNOS, OU ETERNAMENTE OCORREM.\nO TEMPO NÃO ACUMULA. É MONOLÍTICO. É UM SÓ.\nE REVOLVE EM TORNO DE SI."
+  },
+  {
+    "path": "comics/bv/65.jpg",
+    "description": "SUPUNHA QUE, PELO MENOS AQUI, ME VERIA DESVENCILHADO DO CRISTIANISMO.\nUMA SUPOSIÇÃO SOMENTE SANCIONÁVEL SE DESVENCILHASSES DE SI.\nPENSEI QUE O FANTASMA DA FIDALGUIA NÃO ME PERSEGUIRIA ATÉ ESTE RECINTO.\nUMA ASSOMBRAÇÃO SOMENTE INCONSUMÁVEL SE SONHAS NÃO SER QUEM ÉS.\nENFIM?\nENFIM."
+  },
+  {
+    "path": "comics/bv/66.jpg",
+    "description": "E NÃO ABALOU O SENHOR?, O FATO DE KHAN TER ERRADO A DATA DA PRÓPRIA MORTE.\nELE NÃO PREVIA. TINHA VISÕES. FICAVA A NOSSO CARGO INTERPRETÁ-LAS.\nNÃO SEI QUANTAS VIDAS ELE VIVEU, PRA ESPECULAR SOBRE SUAS POSSÍVEIS MORTES.\nHAHA! TÁ CERTO, DOUTOR.\nNÃO QUER TROCAR A FITA?\nMUDAR DE ASUNTO, QUIS DIZER.\nNÃO, NÃO... TEM MUITO ROLO AINDA"
+  },
+  {
+    "path": "comics/bv/67.jpg",
+    "description": "ACHO QUE ERA MINHA ÚLTIMA PERGUNTA, DOUTOR VIDAL.\nPOSSO TE CONTAR UM SEGREDO, MEU FILHO?\nDETESTO SER CHAMADO DE DOUTOR! SOU BACHAREL EM DIREITO. NÃO TENHO MESTRADO, MUITO MENOS DOUTORADO. E AINDA DESMAIO QUANDO VEJO SANGUE.\nE COMO DEVO CHAMAR O DOUTOR? QUERO DIZER, O SENHOR.\n“JOCA”. “JOAQUIM”, SE ACHAR INFORMAL DEMAIS.\nMINHA MÃE CAI PRA TRÁS SE ME OUVE CHAMANDO O DOUTOR DE “JOCA”."
+  },
+  {
+    "path": "comics/bv/68.jpg",
+    "description": "DEIXA DE BESTEIRA, HOME."
+  },
+  {
+    "path": "comics/bv/69.jpg",
+    "description": "PARTE III\nO RESGATE"
+  },
+  {
+    "path": "comics/bv/70.jpg",
+    "description": "APÓS RETORNO A PERNAMBUCO EM 1979, JOAQUIM VIDAL LUTA PARA SE REESTABELECER NO CENÁRIO POLÍTICO DO ESTADO. AO LONGO DE TRÊS ANOS, TENTA COSTURAR ALIANÇAS COM NOVAS LIDERANÇAS, FORMADAS A PARTIR DO VÁCUO DE SUA AUSÊNCIA.\nEM 1982, SÃO CONVOCADAS AS PRIMEIRAS ELEIÇÕES GERAIS NO BRASIL DESDE O GOLPE MILITAR. PORÉM, DEVIDO À INSTABILIDADE POLÍTICA PROVOCADA PELA REABERTURA, O EX-OCUPANTE SÓ CONSEGUE INSERIR SEU NOME NA DISPUTA PARA GOVERNADOR NAS ELEIÇÕES SEGUINTES, REALIZADAS EM 1986.\nA CAMPANHA ARREGIMENTA FORTE APOIO DE FIGURAS PÚBLICAS LOCAIS E NACIONAIS E LOGO SE TORNA UM DOS PLEITOS MAIS ACOMPANHADOS DO PAÍS. NINGUÉM ESTÁ ALHEIO AO IMINENTE REEMPOSSAMENTO DO PERNAMBUCANO."
+  },
+  {
+    "path": "comics/bv/71.jpg",
+    "description": "... O POVO ENTENDE QUE SEUS PROBLEMAS NÃO DESAPARECERÃO MAGICAMENTE DA NOITE PARA O DIA. MAS ELE COMPREENDE TAMBÉM QUE, SEM QUE HAJA DETERMINAÇÃO E TRABALHO INCESSANTES, SEUS PROBLEMAS NÃO DESAPARECERÃO NEM EM MIL DIAS.\nACREDITO, PORTANTO, TER A OBSTINAÇÃO NECESSÁRIA PARA PELO MENOS INICIAR ESTE PROCESSO DE MUDANÇA, EM NOME DE TODOS VOCÊS. PARA ISSO, POSSUO AQUILO QUE JÁ TINHA ANTES, EM MEU PRIMEIRO GOVERNO, E QUEM SABE MAIS UM POUCO. A VIDA PODE TER ME TRANSPORTADO POR CAMINHOS ESCUROS E TORTUOSOS POR MUITO TEMPO,\nNO ENTANTO, DESCONFIO QUE MINHA DESTINAÇÃO SEMPRE ESTEVE MARCADA NO MAPA. INEVITAVELMENTE, ERA O MESMO LOCAL DA PARTIDA. CASO ISTO VENHA A SE CONCRETIZAR, A COMEÇAR DO ANO QUE VEM, COM A VONTADE, COM O SENTIMENTO E COM A CONSCIÊNCIA DO POVO, ESPERO SER GOVERNADOR DE TODOS OS PERNAMBUCANOS."
+  },
+  {
+    "path": "comics/bv/72.jpg",
+    "description": "VOTE EM QUEM SEMPRE VOLTA. VOTE VI...\nTÁS CANSADO DE OUVIR A VOZ DO HOMEM NÃO?\nTÔ MAIS CANSADO DE OUVIR A TUA, PRA SER SINCERO.\nEXEMPLO: SE EU GRITAR “ABRAÇO DA ÁRVORE”,TU PEGA E DÁ UM MATA LEÃO NO PRIMEIRO HIPPIE QUE TIVER NA FRENTE…\nEI, EU ACHO QUE A GENTE PRECISA DE UM CÓDIGO QUANDO CHEGAR LÁ.\nOU SE TU DISSER: “BORRACHA FRACA”, EU PASSO-LHE UMA RASTEIRA…\nOU SE EU DISSER...\nONDE FICA ESSE LUGAR?"
+  },
+  {
+    "path": "comics/bv/73.jpg",
+    "description": "PARA NAQUELE CIDADÃO ALI, PRA GENTE PERGUNTAR.\nÓI, PRA CHEGAR NOS DOIDO, VOCÊS VAI MAIS UNS VINTE MINUTOS EM FRENTE.\nOPA! O SENHOR SABE ONDE FICA A COMUNIDADE... ÉRR.. DHARMIKA VRINDAPURAM?\nVÔTE! ISSO AÍ É OS DOIDO, NÉ?\nAÍ, DEPOIS DO POSTO DE GASOLINA, VOCÊS VAI VER UMA TÁUBA ASSIM BEM GRANDE DO OUTRO LADO DA PISTA.\nVAI SER FÁCIL DE RECONHECER, QUE ELA VAI TÁ TODA PINTADA DE COLORIDO.\nELES MESMO!"
+  },
+  {
+    "path": "comics/bv/74.jpg",
+    "description": "ENTÃO CÊS CRUZA A PISTA E SEGUE PELA ESTRADA DE BARRO, QUE É UM CAMINHO SÓ E NÃO TEM ERRO.\nOBRIGADO!\nE A LARANJA-CRAVO. OS PATRÃO VAI LEVAR?\nHOJE NÃO, AMIGO.\nCERTEZA? ESSAS AQUI É DO PÉ MERMO.\nEU ATÉ QUE QUERO, UMA ASSIM DO PÉ MESMO.\nA QUE OS OUTROS VENDEM NÃO SÃO?"
+  },
+  {
+    "path": "comics/bv/75.jpg",
+    "description": "TÁ CERTO. DIGA AÍ QUANTO É, AMIGO.\nDUAS?\nÉ UM, A UNIDADE. MAS A REDINHA COM DOZE SAI A DEZ.\nUMA PRA MIM E OUTRA PRO MEU IRMÃO.\nAÍ TU ME QUEBRA, RAPAZ,\n\nA MÓI DE TROCO.\nME VÊ DUAS, SÓ...\nQUER PEGAR A REDE NÃO? DÁ A CONTA CERTINHO.\nOLHE… LARANJA MUITA É POUCO. VOU-LHE EXPLICAR POR QUÊ.\nÉ MUITO PRA NÓS AQUI."
+  },
+  {
+    "path": "comics/bv/76.jpg",
+    "description": "REPARE BEM.\nVOCÊ ENFIA O DEDO AQUI E TIRA ESSE PITOCO.\nAÍ VOCÊ PEGA E PUXA ELE ATÉ ARRANCAR UM BOCADO BOM.\nAÍ, VOCÊ VAI GIRANDO ELA E TIRANDO MAIS UNS PEDACINHO\nMAS DEIXE SEMPRE UM PRATINHO EMBAIXO.\nXAU PRO LORO."
+  },
+  {
+    "path": "comics/bv/77.jpg",
+    "description": "AHAM, EU SEI MAIS OU MENOS COMO FUNCIONA UMA LARANJA-CRAVO.\nNÉ ISSO NÃO, PATRÃO! ESSA AQUI É A PROVA DE QUE TEM UM DEUS QUE EXISTE, E ELE AMA O HOMEM. VEJA A LÓGICA.\nA PESSOA ABRE FACINHO E, PRA TERMINAR DE ARROMBAR, AINDA VEM TODA DIVIDIDINHA, PRA VOCÊ COMPARTILHAR COM O PRÓXIMO.\nPOR QUE TEM NA NATUREZA UM NEGÓCIO ASSIM, TÃO PERFEITO PRO HOMEM? CABE DIREITINHO NA PALMA DA MÃO. É PROTEGIDA POR UMA CAPINHA PRA NADA SUJAR."
+  },
+  {
+    "path": "comics/bv/78.jpg",
+    "description": "SE O HOMEM ERA - COMO SE DIZ  UM MACACO HÁ NUM SEI QUANTOS ANOS ATRÁS, E ERA UM PEIXE HÁ NUM SEI MAIS QUANTOS ANOS, COMO É QUE A NATUREZA IA ADIVINHAR QUE A GENTE IA TER DUAS MÃO E CINCO DEDO PRA ABRIR DIREITINHO ESSE NEGÓCIO?\nJÁ IMAGINARAM UM JUMENTO COMENDO UMA LARANJA-CRAVO? O JUMENTO COME PASTO. A GENTE É QUE COME LARANJA. ELA FOI FEITA PRA A GENTE!\nORA, MAS SE É ASSIM, ENTÃO POR QUE É QUE O JUMENTO NÃO VEIO JUNTO?\nA LARANJA JÁ EXISTIA. E O HOMEM EVOLUIU PRA CONSEGUIR ABRIR.\nTUDO ISSO PROVANDO O QUANTO É PODEROSA E SUPREMA, A NATUREZA! O JUMENTO - QUE É BURRO - FICA COM O CAPIM; E O HOMEM - QUE NEM TANTO -, FICA COM A LARANJA. APOIS É CADA QUAL COM SEU CADA UM E TUDO CERTO NO MUNDO.\nOXEN, PORQUE ELE É BURRO."
+  },
+  {
+    "path": "comics/bv/79.jpg",
+    "description": "E É DEUS OU  É A NATUREZA?\nÉ DEUS E É A NATUREZA. ESQUEÇA A ARCA DE NOÉ, ESQUEÇA A SANTA CEIA, ESQUEÇA A CRUCIFICAÇÃO.\nISSO É TUDO COISA DO HOMEM, E NÃO TEM NADA A VER COM COISA DE DEUS. DEUS ESTÁ, DEVERDADE, NESSA LARANJA CRAVO.\nE AÍ, VAI LEVAR A REDINHA? É DEZ.\nPEGA AÍ, SÉRGIO. A GENTE LEVA PRA LÁ. SEI LÁ O QUE O POVO TÁ DANDO DE COMER PRA ELA.\nMUITO OBRIGADO, VÁ COM DEUS!\nE OS DOUTOR VAI COM A NATUREZA, QUE DÁ NA MESMA."
+  },
+  {
+    "path": "comics/bv/80.jpg",
+    "description": "PELO JEITO QUE JÁ COMEÇOU, ESTE DIA VAI SER INSÓLITO, SÉRGIO.\nO QUE É “INSÓLITO?\nSIGNIFICA “ESTRANHO”.\nE ENTÃO POR QUE NÃO DISSE “ESTRANHO”?\nPRA VOCÊ APRENDER UMA PALAVRA NOVA. É SEMPRE BOM.\nHÁ CINCO MINUTOS TU TAVA DIZENDO QUE NÃO QUERIA MAIS ME OUVIR FALAR, E AGORA TÁ QUERENDO BOTAR MAIS PALAVRA NA MINHA BOCA?"
+  },
+  {
+    "path": "comics/bv/81.jpg",
+    "description": "NÃO ACHO QUE É POR ACASO QUE VOCÊS TENHAM VINDO NOS VISITAR JUSTAMENTE NO MÊS DE KARTIKA. NO CALENDÁRIO LUNAR VÉDICO, ESTE É CONSIDERADO O MÊS MAIS AUSPICIOSO."
+  },
+  {
+    "path": "comics/bv/82.jpg",
+    "description": "AQUI NO RETIRO DHARMIKA VRINDAPURAM, OS DEVOTOS SE REUNEM DIARIAMENTE AO PÔR-DO-SOL DURANTE O KARTIKA.\nESSA É UMA ÉPOCA MUITO PROPÍCIA PARA PRATICARMOS A NOSSA ESPIRITUALIDADE.\nFOI UMA PUNIÇÃO DE SUA MÃE, YASODA. O PEQUENO KRISHNA ERA MUITO TRAQUINA! ADORAVA QUEBRAR POTINHOS DE MANTEIGA E SE DELICIAR COM A IGUARIA.\nELES ACENDEM UMA LAMPARINA DE GHEE E ENTOAM O MANTRA DAMODARASTAKA NA FRENTE DE UMA GRAVURA DO PEQUENO KRISHNA AMARRADO NO PILÃO DE MADEIRA.\nCOMO É, MENINO? AMARRADO NUM PILÃO?"
+  },
+  {
+    "path": "comics/bv/83.jpg",
+    "description": "ESSA É UMA ÉPOCA MUITO PROPÍCIA PARA PRATICARMOS A NOSSA ESPIRITUALIDADE.\nAQUI NO RETIRO DHARMIKA VRINDAPURAM, OS DEVOTOS SE REUNEM DIARIAMENTE AO PÔR-DO-SOL DURANTE O KARTIKA.\nE POR FALAR EM COMIDA, MINHA BARRIGA ESTÁ RONCANDO! O ALMOÇO JÁ DEVE ESTAR SENDO SERVIDO. ME ACOMPANHAM?\nELES ACENDEM UMA LAMPARINA DE GHEE E ENTOAM O MANTRA DAMODARASTAKA NA FRENTE DE UMA GRAVURA DO PEQUENO KRISHNA AMARRADO NO PILÃO DE MADEIRA.\nCOMO É, MENINO? AMARRADO NUM PILÃO?\nUMA PUNIÇÃO DE SUA MÃE, YASODA. O PEQUENO KRISHNA ERA MUITO TRAQUINA! ADORAVA QUEBRAR POTINHOS DE MANTEIGA E SE DELICIAR COM A IGUARIA.\nE POR FALAR EM COMIDA, MINHA BARRIGA ESTÁ RONCANDO! O ALMOÇO JÁ DEVE ESTAR SENDO SERVIDO. ME ACOMPANHAM?\nA GENTE TROUXE A SOBREMESA.\nA GENTE TROUXE A SOBREMESA."
+  },
+  {
+    "path": "comics/bv/84.jpg",
+    "description": "NUNCA PROVOU DAHL? É UMA DELÍCIA. A GENTE TEMPERA ELE COM VÁRIAS ESPECIARIAS, INCLUSIVE GENGIBRE.\nLENTILHA? TEM UM FEIJÃO CARIOCA NÃO?\nGENGIBRE? MAS EU NÃO TÔ DOENTE.\nCOME, MENINO!\nSIGNIFICA PRÓSPE...\nRICARDO, O QUE SIGNIFICA “AUSPICIOSO”?\nENTÃO VOCÊS DOIS JÁ DESCOBRIRAM MEU PARADEIRO?"
+  },
+  {
+    "path": "comics/bv/85.jpg",
+    "description": "VIXE MARIA, ATÉ JESUS DESCANSOU TRÊS DIAS ANTES DE RESSUSCITAR.\nMAMÁ!\nBISE\nBISE\nE AÍ, LAMBISGOIA?\nFALA LAMBESGOTO.\nBISE\nBISE"
+  },
+  {
+    "path": "comics/bv/86.jpg",
+    "description": "AGORA QUE SOMOS SÓ NÓS, ME DIGAM AÍ... QUAL O MOTIVO DESTA BELA VISITA?\nTEM UMA MISSA AMANHÃ EM GARANHUS.\nE É, É?"
+  },
+  {
+    "path": "comics/bv/87.jpg",
+    "description": "É A ÚLTIMA MISSA ANTES DAS ELEIÇÕES. VOVÓ QUE ENCOMENDOU.\nPAPAI QUERIA QUE VOCÊ FOSSE TAMBÉM, PRA ENCORPAR O CORO FAMILIAR.\nE A MINHA É COMER UM PRATO DE LENTILHA. PORÉM, CÁ ESTOU, PELO BEM COMUM.\nMINHA CONCEPÇÃO PESSOAL DE INFERNO É BOTAR A BUNDA NUM BANCO DURO, COM UMA ROUPA ABAFADA, ENQUANTO UMA PESSOA FICA ME PEDINDO PRA LEVANTAR E SENTAR DE CINCO EM CINCO MINUTOS.\nLOREM IPSUM\nMARTA, FALA SÉRIO. POR QUE TU VEIO PRA CÁ?\nELA VIU HAIR NO CINEMA QUANDO VOLTOU PRO BRASIL."
+  },
+  {
+    "path": "comics/bv/88.jpg",
+    "description": "TU GOSTA MESMO DAQUI?\nOS ENSINAMENTOS DE KRISHNA REVELAM QUE A ALMA NÃO TEM GÊNERO, E QUE TODO SER HUMANO PODE ALCANÇAR A LIBERDADE ESPIRITUAL.\nPORQUE, PELO QUE OUVI DIZER, ESSES HARE KRISHNAS NÃO TRATAM MULHERES IGUALMENTE.\nÔ, MEU IRMÃO...\nMAS A GENTE TÁ VIVO, MARTA, EM CARNE E OSSO. E EU, COMO SEU IRMÃO MAIS VELHO, QUERIA SABER SE O CORPO TEM GÊNERO E LIBERDADE.\nCOM ESSE BIGODE, TU FICA PARECENDO UM PAPUDINHO COM DOIS FILHOS PRA CRIAR E UMA DÍVIDA NA MERCEARIA DA ESQUINA.\nE TEM UM RESTO DE LENTILHA NO TEU DENTE, SÉRGIO."
+  },
+  {
+    "path": "comics/bv/89.jpg",
+    "description": "VOCÊS JÁ LERAM O BHAGAVAD GĪTĀ, A CANÇÃO DIVINA?\nÉ UM DOS TEXTOS SAGRADOS MAIS IMPORTANTES DA HUMANIDADE."
+  },
+  {
+    "path": "comics/bv/90.jpg",
+    "description": "O BHAGAVAD GĪTĀ É UM TRECHO QUE COMPÕE O MAHABHARATA, ÉPICO QUE É BASE DAS RELIGIÕES HINDUÍSTAS. NELE, ARJUNA,ARQUEIRO DA FAMÍLIA PANDAVA, DESESPERA SE ÀS VESPERAS DE UMA IMPORTANTE BATALHA CONTRA OS KAURAVAS. O DILEMA DO GUERREIRO É DIGNO EM DOIS ASPECTOS. PRIMEIRAMENTE, OS KAURAVAS SÃO PARENTES DOS PANDAVAS, POIS AMBOS SÃO DESCENDENTES DE BHARATA, QUE, EM TEMPOS ANTERIORES, CARREGAVA O TÍTULO DE CHAKRAVARTI, OU “MONARCA SUPREMO”. O SEGUNDO ASPECTO DA AGONIA DE ARJUNA DIZ RESPEITO À PRÓPRIA MORALIDADE DA GUERRA, E SEUS HORRORES."
+  },
+  {
+    "path": "comics/bv/91.jpg",
+    "description": "SEM SABER COMO AGIR, ARJUNA PEDE CONSELHOS AO SÁBIO SRI KRISHNA, QUE EM REALIDADE É A REENCARNAÇÃO DO DEUS VISHNU.\nKRISHNA EXPLICA QUE DAR PROSSEGUIMENTO COM A BATALHA É UMA FORMA DO PANDAVA ACEITAR O SEU DHARMA.\nO DHARMA É UM DOS QUATRO PURUSHARTHA, A SABER:\nTUAS PALAVRAS AMBÍGUAS ME CONFUNDEM!\nARTHA, A PROSPERIDADE MATERIAL.\nKAMA, O DESFRUTAR DA VIDA.\nDHARMA, A CONDUTA ÍNTEGRA.\nMOKSHA, A LIBERTAÇÃO DAS COISAS TERRENAS.\nO PROPÓSITO SAGRADO DE ARJUNA, DIZ KRISHNA, ERA LUTAR EM SUA GUERRA HONRADA. ESTE ERA O SEU DHARMA, COMO GUERREIRO MAHARATHA…\nENTÃO, ELE INCITA A GUERRA?"
+  },
+  {
+    "path": "comics/bv/92.jpg",
+    "description": "É O QUÊ?\nEU ACHAVA QUE VOCÊS ERAM PAZ E AMOR. TU TÁS INSÓLITA PRA CARAI, MARTA.\nUSEI CERTO?\nNA HORA ERRADA, NÉ?\nPEDE PRA RICARDO EXPLICAR, QUE É ELE O SABE-TUDO.\nTÔ ENTENDENDO É NADA.\nMARTA, NÃO DÁ ATENÇÃO A ESSE AÍ.\nA GENTE SÓ QUER SABER… A GENTE QUER SABER SE..."
+  },
+  {
+    "path": "comics/bv/93.jpg",
+    "description": "VOCÊ ESTÁ AQUI POR LIVRE E ESPONTÂNEA VONTADE? OU TEM, SEI LÁ, UM NAMORADO, UM GURU CARISMÁTICO...\nISSO AQUI É…?\nQUE SITUAÇÃO…?\nCA-HAM.\nELE QUER SABER SE ALGUM HIPPIE TE DEU UMA CHAVE DE PIROCA E TE CONVENCEU A VIR MORAR AQUI.\nNESSE TOM, NÃO!\nVENHA CÁ!\nO SENHOR ME RESPEITE.\nPOUCO IMPORTAM PALAVRAS DOCES SE VOCÊ NÃO RESPEITA AS MINHAS ESCOLHAS.\nE TU, RICARDO..."
+  },
+  {
+    "path": "comics/bv/94.jpg",
+    "description": "NÃO ME LEVEM A MAL. TENHO MUITO RESPEITO POR VOCÊS, MENINOS. E POR PAPAI TAMBÉM.\nA TRAJETÓRIA DELE É CHEIA DE LUZ. VERDADEIRAMENTE, DESEJO VENTURA EM QUALQUER EMPREENDIMENTO QUE ELE TIVER.\nSE KRISHNA ESTIMULOU ARJUNA A IR ADIANTE COM SUA PELEJA, QUEM SOU EU PARA TENTAR CASTRAR A LUTA DE PAPAI?\nMAS KRISHNA TAMBÉM DIZ QUE QUEM VÊ A INAÇÃO NA ATIVIDADE E A AÇÃO NA ATIVIDADE É VERDADEIRAMENTE CONSCIENTE. ESTE, PORTANTO, É O MEU SACRIFÍCIO.\nA INAÇÃO É MINHA AÇÃO.\nÉ QUE ESSA VIDA AÍ, DE FAMÍLIA DE POLÍTICO… ENFIM…\nÀS VEZES EU SÓ QUERIA ERA TER NASCIDO UM PEZINHO DE FEIJÃO, BEM PEQUENININHO, NUM CANTINHO DE UMA HORTA, SEM ATRAPALHAR NINGUÉM, SEM DEPENDER DE NINGUÉM.\nFAZ SENTIDO?"
+  },
+  {
+    "path": "comics/bv/95.jpg",
+    "description": "O DIA JÁ TÁ CAINDO. VAMOS?\nDEIXA DE PANTIM, MAMÁ.\nDEPOIS DAS ELEIÇÕES EU ME COMUNICO COM VOCÊS, TÁ?\nCHEIRO EM PAI, CHEIRO EM MÃE."
+  },
+  {
+    "path": "comics/bv/96.jpg",
+    "description": "AGORA EU QUERO QUE A CHINELA DELA TORE NO MEIO DE UMA CAMINHADA\nE AGORA?\nE É MELHOR FAZER AS METADES POR INTEIRO DO QUE FAZER OS INTEIROS PELA METADE.\nE A GENTE DIZ O QUE PRA PAPAI?\nQUE A GENTE FEZ METADE DO SERVIÇO.\nMAS SE VOCÊ FIZER A METADE DE UM INTEIRO POR INTEIRO, VOCÊ TÁ FAZENDO O INTEIRO PELA METADE.\n... TRAZ ESSE VOTO DO SERTÃO E LITORAL QUE É O POVO UNIDO ATÉ O FINAL VOTA NO SOCIAL, O MEU VOTO É VIDAL ELE TÁ VOLTANDO\nEITA, É MESMO."
+  },
+  {
+    "path": "comics/bv/97.jpg",
+    "description": ""
+  },
+  {
+    "path": "comics/bv/98.jpg",
+    "description": "ESTOU EM FRENTE AO PALÁCIO DO CAMPO DAS PRINCESAS, SEDE DO GOVERNO DE PERNAMBUCO, ONDE OCORRE A CERIMÔNIA DE POSSE DE JOAQUIM VIDAL.\nA RUA ESTÁ TOMADA DE PESSOAS, NUM VERDADEIRO CARNAVAL DA DEMOCRACIA.\nGENTE DE TODO O ESTADO VEIO PRESTIGIAR O RETORNO DO POLÍTICO AO CARGO APÓS MAIS DE VINTE ANOS.\nE QUEM TÁ AQUI DO MEU LADO É O POETA SAMUCA DO PAJEÚ, QUE CHEGOU CEDO À MANIFESTAÇÃO.\nSAMUCA, ME DISSERAM QUE VOCÊ PREPAROU UMA MÚSICA PRA ESSA OCASIÃO.\nÉ AGORA!\nPODE DAR UMA PALHINHA PRA GENTE?\nO MOTE É: “VOLTA O POVO AO PALÁCIO DAS PRINCESAS, VAI ENTRAR PELA PORTA QUE SAIU”"
+  },
+  {
+    "path": "comics/bv/99.jpg",
+    "description": "É TENAZ E SENSATO, O ELEFANTE, CUJA PELE SUSTENTA AS INTEMPÉRIES E EMBORA RESISTA A QUEM O FERE NÃO SÓ VALE VIVER PERSEVERANTE POIS ENQUANTO TEM MESAS QUE SÃO FARTAS, OUTRAS MAIS AMANHECEM QUASE PARCAS A MISÉRIA É PRODUTO DO ARDIL NO ENTANTO, HÁ REMÉDIO PRA POBREZA VOLTA O POVO AO PALÁCIO DAS PRINCESAS VAI ENTRAR PELA PORTA QUE SAIU\nE AINDA QUE HAJA O ALIMENTO, MESMO QUE SE FORNEÇA HABITAÇÃO NÃO SÓ BASTA PRO HOMEM CAMA E PÃO PRA FINDAR DE UMA VEZ O SOFRIMENTO, NÓS QUEREMOS CULTURA E EDUCAÇÃO E SE SÓ NOS CONCEDEM UM TOSTÃO OU O ÚLTIMO PINGO DO CANTIL HÁ QUEM LUTE POR TODA ESSA RIQUEZA VOLTA O POVO AO PALÁCIO DAS PRINCESAS VAI ENTRAR PELA PORTA QUE SAIU\nMAS AQUELE QUE SURGE SOLIDÁRIO E UTILIZA A PALAVRA SÓ DE ARMA PODE TER QUE ENFRENTAR AS MUITAS FARDAS E SUBIR FUSTIGADO NO CALVÁRIO DEFENDER OPERÁRIO E CAMPONÊS NECESSITA DA MAIS ESPESSA TEZ NÃO TER MEDO DO CANO DO FUZIL NÃO CURVAR-SE DIANTE DE BAIXEZAS VOLTA O POVO AO PALÁCIO DAS PRINCESAS VAI ENTRAR PELA PORTA QUE SAIU\nA JUSTIÇA MAIOR AINDA VIRÁ SEPARANDO DO JOIO TODO O TRIGO, SE POR ORA O POVO COME VIDRO É PORQUE VAI NO FIM COMER MANJAR SABE A MOSCA E TAMBÉM O ELEFANTE QUE A VIDA NÃO PASSA DE UM INSTANTE E APESAR DE QUE O FIM SERÁ GENTIL POR ENQUANTO QUE A LUZ ESTÁ ACESA VOLTA O POVO AO PALÁCIO DAS PRINCESAS VAI ENTRAR PELA PORTA QUE SAIU"
+  },
+  {
+    "path": "comics/bv/100.jpg",
+    "description": ""
+  },
+  {
+    "path": "comics/bv/101.jpg",
+    "description": ""
+  },
+  {
+    "path": "comics/bv/102.jpg",
+    "description": "PARTE IV\nO AMANHÃ"
+  },
+  {
+    "path": "comics/bv/103.jpg",
+    "description": "DURANTE SEU SEGUNDO MANDATO COMO GOVERNADOR DO ESTADO DE PERNAMBUCO, JOAQUIM VIDAL RETOMA ALGUNS PROGRAMAS SOCIAIS INTERROMPIDOS PELO GOLPE MILITAR E IMPLEMENTA NOVOS. PROMOVE VASTOS PROJETOS DE ELETRIFICAÇÃO E FINANCIAMENTO DE BOMBAS DE IRRIGAÇÃO PARA A REGIÃO RURAL; CRIA MECANISMOS PARA A CONTRATAÇÃO DE CANAVIEIROS EM OBRAS PÚBLICAS NOS PERÍODOS DE ENTRESSAFRA; E FACILITA O MICROCRÉDITO PARA A POPULAÇÃO DE BAIXA RENDA.\nEM 1990, CONCLUI SEU GOVERNO COM ALTO ÍNDICE DE APROVAÇÃO. EM 1994, SE CANDIDATA DE NOVAMENTE E SE ELEGE PELA TERCEIRA VEZ."
+  },
+  {
+    "path": "comics/bv/104.jpg",
+    "description": "EM CERTOS RECANTOS DO NOSSO ESTADO, UM PONTO DE LUZ E ÁGUA CORRENTE SÃO UM PASSO EM DIREÇÃO À DIGNIDADE."
+  },
+  {
+    "path": "comics/bv/105.jpg",
+    "description": "O QUE DANADO É UMA BAIXELA, JACIRA?\nDIGA, MINHA QUERIDA.\nQUINCAS, TU SABE ONDE FOI PARAR AQUELA BAIXELA DE PRATA QUE GANHAMOS DE CASAMENTO DE SUA TIA?\nNÃO FAÇO IDEIA, MAS TEM UMA HORA VOCÊ LIGOU PERGUNTANDO ONDE ESTAVA. CAPAZ DE ESTAR JUNTO.\nDEVE ESTAR NO MESMO LUGAR DO CONJUNTO DE CACHIMBOS DO SEU PAI.\nE ONDE TÁ ISSO?\nMUITO ENGRAÇADINHO..."
+  },
+  {
+    "path": "comics/bv/106.jpg",
+    "description": "VÁ-SE EMBORA, VÁ!\nSE EU TE DER UM MAPA, TU NÃO ACHA NEM O QUARTO DA GENTE DENTRO DESSA CASA. SÓ VIVE NA RUA\nJÁ OLHOU NO SÓTÃO?\nINCLUSIVE, ESTOU NA RUA NESTE INSTANTE.\nCOMECEI POR LÁ, NÉ?\nVÊ ENTÃO SE ESTÁ NAQUELA PRATELEIRA ALTA DA DESPENSA. TEM TUDO QUANTO É COISA LÁ.\nVOU VERIFICAR.\nPRONTO. UM BEIJO, ENTÃO.\nDOUTOR"
+  },
+  {
+    "path": "comics/bv/107.jpg",
+    "description": "HM?\nMÃE CILA JÁ SE ACALMOU, DISSE QUE VAI RECEBER O SENHOR."
+  },
+  {
+    "path": "comics/bv/108.jpg",
+    "description": ""
+  },
+  {
+    "path": "comics/bv/109.jpg",
+    "description": "É A PRIMEIRA VEZ QUE O DOUTOR PISA NUM TERREIRO DE JUREMA?\nNORMALMENTE O NEGÓCIO É MAIS ORGANIZADO.\nSIM, SENHORA.\nMÃE CILA, LAMENTO PROFUNDAMENTE O QUE ACONTECEU AQUI.\nO DOUTOR TAVA PELA REGIÃO, É?"
+  },
+  {
+    "path": "comics/bv/110.jpg",
+    "description": "VIM COM UMA EQUIPE INAUGURAR UM TRECHO DE DUPLICAÇÃO DA BR E ME DEPARO COM UMA BARBARIDADE DESSAS.\nVIM COM UMA EQUIPE INAUGURAR UM TRECHO DE DUPLICAÇÃO DA BR E ME DEPARO COM UMA BARBARIDADE DESSAS.\nE QUEM É AQUELE ALI, DOUTOR?\nAH, É MEU ASSESSOR. ESTÁ ALI EM CARÁTER PURAMENTE DECORATIVO.\nAHN?\nSABE QUE ONTEM EU SONHEI COM O DOUTOR?\nORLANDO, PODE ESPERAR ALI FORA, POR FAVOR?\nTEM CABIMENTO ENTÃO, ELE TÁ AQUI? DE BABADO E DE FRUFRU, MINHAS RENDAS JÁ TÃO CHEIA.\nQUE A SEMENTE NEM SUBIA, NEM DESCIA, MAS DESENCANTAVA, ANOS E ANOS DEPOIS.\nSONHEI QUE TINHA UMA SEMENTE DE TÂMARA ENTALADA NA GARGANTA DO DOUTOR."
+  },
+  {
+    "path": "comics/bv/111.jpg",
+    "description": "NO MAIS, É ANO DE ELEIÇÃO, NÉ? VAI TENTAR SE REELEGER?\nSÓ VOU TERMINAR MEU MANDATO E PARTIR PRA PRÓXIMA. TRÊS VEZES ESTÁ BOM DEMAIS.\nQUEM QUER QUE SE APRESENTE, TENDO VONTADE DE AJUDAR, É MUITO BEM-VINDO.\nE VAI DEIXAR OUTRO TOMANDO CONTA?\nDEUS ME LIVRE. NÃO QUERO FILHO MEU SE ENVOLVENDO COM NEGÓCIO DE POLÍTICA.\nQUER BOTAR UM FILHO SEU?"
+  },
+  {
+    "path": "comics/bv/112.jpg",
+    "description": "MEUS FILHOS, EU BOTO TODOS ELES AQUI NA JUREMA.\nMAS É DIFERENTE.\nEU SEI QUE É. MAS ME DIGA POR QUE É QUE VOCÊ ACHA DIFERENTE.\nOS RABINOS DO TALMUDE DIZEM QUE EXISTEM TRÊS NÍVEIS DE CARIDADE."
+  },
+  {
+    "path": "comics/bv/113.jpg",
+    "description": "O MAIS NOBRE É DAR TRABALHO PARA QUE A PESSOA POSSA VIVER POR SI.\nO DO MEIO É DOAR DINHEIRO ANONIMAMENTE.\nE O NÍVEL MAIS MESQUINHO É DAR DINHEIRO DE UM JEITO QUE TODO MUNDO VEJA QUE VOCÊ ESTÁ DANDO.\nO POLÍTICO TEM QUE SE DIVIDIR ENTRE O PRIMEIRO E O TERCEIRO, POR FORÇA DO OFÍCIO.\nMORALISMOS À PARTE, ACHO QUE MEUS FILHOS PODEM FAZER COISAS MAIS BONITAS COM AS VIDAS DELES."
+  },
+  {
+    "path": "comics/bv/114.jpg",
+    "description": "SOU UMA BÓIA SOLTA NO MAR DAS ALMAS.\nO DOUTOR É JUDEU?\nAPOIS TOME UMA ÂNCORA.\nDUAS PESSOAS DE TERNO APERTANDO A MÃO É DIFERENTE DE DUAS PESSOAS SEM TERNO APERTANDO                         A MÃO. EU QUERO QUE OS                                APERTOS DE MÃO DOS                                 MEUS FILHOS                                          SEJAM DESPROVIDOS                                    DE TERNO.\nE OUTRA COISA..."
+  },
+  {
+    "path": "comics/bv/115.jpg",
+    "description": "“JOCA”.\nÉ O DOUTOR QUE TÁ DIZENDO.\nOI?\nPODE ME CHAMAR DE “JOCA”.\nEU JÁ ENTREI SEM... FIGURATIVAMENTE.\nENTÃO, ESTAMOS TIRANDO OS TERNOS?"
+  },
+  {
+    "path": "comics/bv/116.jpg",
+    "description": "MAS ME DIGA, COMO É QUE EU POSSO AJUDAR VOCÊS? SABEM QUEM FOI O RESPONSÁVEL POR ESSA BADERNA AQUI?\nEU POSSO TE DAR UMA LISTA DE POSSÍVEIS NOMES, JOCA, MAS VOCÊ VAI FAZER O QUÊ? VAI BOTAR A PM ATRÁS DELES? NÃO FAZ MUITO O SEU PERFIL.\nTEM OUTRAS MEDIDAS QUE PODEMOS TOMAR.\nO PROBLEMA NÃO ESTÁ NO PRESENTE, O PROBLEMA ESTÁ MESMO NO PASSADO. O SENHOR POR ACASO TEM COMO DAR UM TIRO HOJE E ACERTAR O DIA DE ONTEM?"
+  },
+  {
+    "path": "comics/bv/117.jpg",
+    "description": "QUINHENTOS ANOS ANTES DE CRISTO, OS BABILÔNIOS BOTAM O TEMPLO JERUSALÉM ABAIXO.\nNO SÉCULO DEZESSEIS, A COMPANHIA DE JESUS PROMOVE A CATEQUESE DO POVO INDÍGENA\nJESUS CRISTO, EM SEU TEMPO, TEVE QUE LIDAR COM FARISEUS IMPLICANDO\nSOBRE O QUE ELE DEVERIA FAZER DURANTE OS DIAS DE SÁBADO.\nCOM AQUELA MESMA BOA INTENÇÃO QUE POVOA O INFERNO.\nHÁ EXATOS SESSENTA ANOS, AGAMENON MAGALHÃES DESCE UMA PORTARIA PARA DESATIVAR TODO TIPO DE TERREIRO NO ESTADO DE PERNAMBUCO."
+  },
+  {
+    "path": "comics/bv/118.jpg",
+    "description": "A BABILÔNIA DEIXOU MARCA NO JUDAÍSMO, QUE INFORMOU O CRISTIANISMO, QUE SERVIU DE AVATAR PARA CERTAS RELIGIÕES DO POVO PRETO, QUE TODAS ELAS DE ALGUMA FORMA FORAM PARAR NO MEU CATIMBÓ, À SUA MANEIRA, COM SEU PESO E COM SUA MEDIDA. NÃO NECESSARIAMENTE NESSA ORDEM.\nMAS MESMO ASSIM, EM PLENO 1998, SOB A LUZ DO SOL, MUITO DEPOIS DE AGAMENON MAGALHÃES, DE SANTO INÁCIO DE LOYOLA, DE JESUS CRISTO, DOS FARISEUS E DE NABUCODONOSOR, MEU TERREIRO É DESSACRALIZADO POR MÃOS DESUMANAS.\nSÓ QUE SABEM ELES QUE A JUREMA É UM PAU SAGRADO? QUE JESUS SE DEITOU FOI DEBAIXO DE UM PÉ DE JUREMA PRA DESCANSAR? SABEM ELES QUE TENTAM REMOVER A SOMBRA DE CRISTO?\nKÒ SÍ EWÉ KÒ SÍ ÒRÌSÀ!"
+  },
+  {
+    "path": "comics/bv/119.jpg",
+    "description": "EU TÔ DIZENDO, JOCA, QUE NÃO ADIANTA SOLTAR OS CACHORROS. QUERO SABER O QUE O SENHOR PODE FAZER NÃO POR ESSE LUGAR AQUI, QUE JÁ TÁ TODO REVIRADO, MAS POR QUALQUER OUTRO TERREIRO DE CATIMBÓ, DE UMBANDA, DE CANDOMBLÉ E DE TODO BATUQUE DE PRETO E ÍNDIO QUE SE ENCONTRA POR AÍ.\nEXISTE A LEI.\nEXISTE A APLICAÇÃO DA LEI.\nE EXISTE MAIS UMA COISA.\nO FRUTO MAIOR DA POLÍTICA.\nO PENSAMENTO."
+  },
+  {
+    "path": "comics/bv/120.jpg",
+    "description": "SEU JOCA, A GENTE TEM QUE ESTAR EM NAZARÉ DA MATA EM MEIA HORA.\nMÃE CILA, INFELIZMENTE, EU TENHO QUE IR.\nANDE NA SUA VELOCIDADE, DOUTOR, QUE NÃO COMPENSA ACELERAR, NÃO.\nATRASADO, A GENTE JÁ TÁ. O MOTORISTA DISSE QUE SE A GENTE FOSSE NA VELOCIDADE DELE, ATÉ DAVA PRA CHEGAR EM 40 MINUTOS. MAS NA SUA, É QUASE UMA HORA.\nDOUTOR, É?\nVÁ SIMBORA APERTAR UMAS MÃOS, HOME."
+  },
+  {
+    "path": "comics/bv/121.jpg",
+    "description": "SABE O QUE EU ACHO? QUE ELEIÇÃO EM PERNAMBUCO É QUE NEM ALFAIATARIA. É SOB MEDIDA. NÃO TEM UMA IGUAL A OUTRA. VIDAL É O MAIOR NOME? TALVEZ SEMPRE SERÁ. ELE É PRODUTO DE DETERMINADAS CIRCUNSTÂNCIAS HISTÓRICAS QUE SÃO FRANCAMENTE ARREBATADORAS. ESTAVA ALI NO LUGAR CERTO, NA HORA CERTA. MAS O DIA DE AMANHÃ ESTÁ SEMPRE POR SER ESCRITO. AS CIRCUNSTÂNCIAS HISTÓRICAS  AGORA SÃO OUTRAS.\nJOAQUIM VIDAL É UM PROTÓTIPO DE GETÚLIO VARGAS NO NORDESTE. SEMPRE FOI. SE TIVER ESPAÇO SOBRANDO, O HOMEM VAI OCUPAR. ENQUANTO O POVO DE PERNAMBUCO DEVERIA ESTAR ATENTO AOS NOVOS QUADROS - OU ATÉ MESMO AOS ANTIGOS QUE NUNCA TIVERAM A DEVIDA OPORTUNIDADE -, A GENTE CONTINUA MERGULHADO NESSE CAUDILHISMO QUE NÃO FAZ SENTIDO COM O BRASIL NA BEIRADA DO SÉCULO 21."
+  },
+  {
+    "path": "comics/bv/122.jpg",
+    "description": ""
+  },
+  {
+    "path": "comics/bv/123.jpg",
+    "description": "PARTE V\nO OUTONO"
+  },
+  {
+    "path": "comics/bv/124.jpg",
+    "description": "TENHO POUCAS HISTÓRIAS COM MEU AVÔ. NA VIDA PRIVADA, COM OS NETOS PELO MENOS, ELE ERA SILENCIOSO E OBSERVADOR. QUANDO POUCO FALAVA, SUA DICÇÃO PECULIAR E VOCABULÁRIO ARCAICO EMBAÇAVAM A COMUNICAÇÃO.\nTENHO POUCAS HISTÓRIAS COM MEU AVÔ, EMBORA MUITAS MEMÓRIAS. DE QUANDO, SENTADOS EM SEU COLO, PEDÍAMOS UM PITO DO SEU CACHIMBO, OU UMA BICADA DO SEU UÍSQUE. ELE CEDIA, À MODA INCONSEQUENTE DA ÉPOCA. TRAGÁVAMOS, BEBÍAMOS E, NUMA RISADA, TORCÍAMOS A FUÇA COMO QUEM CHUPA LIMÃO.\nDE QUANDO ENTRAVA NO MAR, SOZINHO, COM UMA SUNGA ALTA QUE QUASE BATIA NO UMBIGO. E CAMINHAVA NO TABULEIRO DE AREIA QUE É O MAR NORDESTINO, QUASE PLANO, MAS COM CERTO DECLIVE.\n“ESTÁ VOLTANDO PARA ARGÉLIA”, EU PENSAVA, IÇANDO CASTELOS ARENOSOS E MENTAIS, “DEVE ESTAR COM SAUDADES”."
+  },
+  {
+    "path": "comics/bv/125.jpg",
+    "description": "E DOUTORA CARLA? TÁ PELA ÁREA?\nTÁ DANDO UMA OLHADA EM PAPAI NA SALA DE CIRURGIA, RAPIDINHO. LOGO MAIS ELA VOLTA COM O BOLETIM.\nFUI VISITAR ELE COM OS GÊMEOS HÁ UMA MEIA HORA, MAS AGORA NÃO TÁ PODENDO MAIS ENTRAR."
+  },
+  {
+    "path": "comics/bv/126.jpg",
+    "description": "PIOR QUE ELE IA TÁ ACHANDO DO CARALHO, ESSE CIRCO TODO. UMA PENCA DE GENTE REUNIDA NO HOSPITAL, ALTAS FOFOCAS UM PETISQUINHO…\nMENINO, TÁ CHEGANDO UMA VERDADEIRA COMITIVA DO PARTIDO HOJE. É PRA ELES.\nSÓ UNZINHO... A GENTE FAZ UM REARRANJO NA BANDEJA. NINGUÉM VAI NOTAR.\nFAÇA UM REARRANJO AQUI QUE EU FAÇO É UM REARRANJO NA TUA FUÇA.\nVÁ FUMAR UM CIGARRO PRA PASSAR ESSA FOME, VÁ.\nVIXE MARIA, QUE AGRESSIVIDADE. TÔ COM FOME, SÓ."
+  },
+  {
+    "path": "comics/bv/127.jpg",
+    "description": "SIM, SENHORA.\nOPA, DIZ AÍ, GILMAR.\nLOREM IPSUM\nDALE, SEU RICARDO.\nDONA MARTA TÁ AÍ DENTRO?\nSEGUE O RASTRO DE FUMAÇA.\nOPA, ANTES QUE EU ME ESQUEÇA.\nT-TÁ CERTO!"
+  },
+  {
+    "path": "comics/bv/128.jpg",
+    "description": "SANTO ANTÔNIO TÁ OCUPADO PLANEJANDO CASAMENTO. SÃO FRANCISCO DE ASSIS TÁ OCUPADO LIMPANDO            MERDA DE POMBO. E POR AÍ VAI,                  SEU RICARDO.\nPEDI PRA MINHA MULHER PESQUISAR NA INTERNET. UMA LISTA DE MAIS DE QUATROCENTOS       SANTOS QUE NINGUÉM CONHECE.                    PORQUE NEGÓCIO DE PEDIR                    PRA SANTO POP STAR NÃO                     DÁ CERTO NÃO.\nLICENCINHA...\nAGORA, ESSES AQUI EU ACHO QUE NÃO TÃO RECEBENDO MUITO PEDIDO, NÃO...\nREPASSE PRA OUTRO, GILMAR, QUE MINHA REZA NÃO VALE PORRA NENHUMA. CAPAZ DE ACELERAR O PROCESSO.\nPODE PASSAR PRA CÁ, GILMAR. EU CURTO ESSAS PRESEPADAS\nSEU SÉRGIO, PERAÍ! EU TAVA DIZENDO PRO TEU IRMÃO..."
+  },
+  {
+    "path": "comics/bv/129.jpg",
+    "description": "OPA!\nEI, É PRO PESSOAL DO PARTIDO!\nCOM LICENÇA..."
+  },
+  {
+    "path": "comics/bv/130.jpg",
+    "description": "EU XOU FILIADO.\nRICARDO, ESPERA UM POUQUINHO...\nPRECISO FALAR CONTIGO!"
+  },
+  {
+    "path": "comics/bv/131.jpg",
+    "description": "DONA MARTA, QUEM TÁ ALI EMBAIXO É AQUELE VADOCK, JORNALISTA DO DIARIO...\n“DONA” É MINHA MÃE, QUE É DONA JACIRA. EU NÃO SOU DONA DE NADA, NEM DO APARTAMENTO ONDE EU MORO, QUE É DO MEU EX-MARIDO.\nELE TAVA QUERENDO UMA DECLARAÇÃO OFICIAL DA FAMÍLIA SOBRE O DOUTOR.\nMANDA SÉRGIO, QUE É CHEIO DAS LÁBIA. ALIÁS, MANDA NINGUÉM. QUE DECLARAÇÃO ELE QUER, QUE TÁ TUDO IGUAL?"
+  },
+  {
+    "path": "comics/bv/132.jpg",
+    "description": ""
+  },
+  {
+    "path": "comics/bv/133.jpg",
+    "description": ""
+  },
+  {
+    "path": "comics/bv/134.jpg",
+    "description": ""
+  },
+  {
+    "path": "comics/bv/135.jpg",
+    "description": ""
+  },
+  {
+    "path": "comics/bv/136.jpg",
+    "description": "O EX-GOVERNADOR JOAQUIM VIDAL APRESENTOU PROBLEMAS CARDÍACOS E REnais MAIS CEDO, E FOI SUBMETIDO A UMA TRAQUEOSCOPIA E DUAS CIRURGIAS PRA CONTER UM PROCESSO HEMORRÁGICO NO PULMÃO E NO DUODENO ESQUERDO.\nA MANOBRA MANTEVE TEMPORARIAMENTE ESTÁVEL O ESTADO DE SAÚDE DO LÍDER POLÍTICO. PORÉM, UM CHOQUE SÉPTICO PROVOCADO POR UMA INFECÇÃO RESPIRATÓRIA O LEVOU A0 SEU ÚLTIMO SUSPIRO.\nA SITUAÇÃO, DISSERAM OS MÉDICOS, JÁ ERA TIDA COMO IRREVERSÍVEL DESDE A MADRUGADA DE ONTEM. VIDAL SE INTERNOU LOGO NO INÍCIO DE SUA PRIMEIRA CAMPANHA PRESIDENCIAL, AOS 79 ANOS DE IDADE.\nO PERNAMBUCANO COMEÇOU A DISPUTA EM QUARTO LUGAR NAS PESQUISAS, MAS APARENTAVA ENTUSIASMADO COM OS RUMOS DA CAMPANHA..."
+  },
+  {
+    "path": "comics/bv/137.jpg",
+    "description": "VEM, TETÊ...\nLOREM IPSUM\nCOM LICENÇA...\nFIQUE UM POUQUINHO COM SUA VÓ...\nMAMÁ?\nÉ TETÊ, VÓ, NÃO TIA MARTA.\nbise sniff"
+  },
+  {
+    "path": "comics/bv/138.jpg",
+    "description": "LICENÇA...\nESSES MENINOS VIVEM RECLAMANDO QUE “A COMUNICAÇÃO NESSA FAMÍLIA É PÉSSIMA”.\n\nAÍ TÔ PASSANDO A FICHA GERAL DA “SOCIEDADE” PERNAMBUCANA. QUER COLABORAR? TU É FERA NISSO.\nDIZ, MARTA. QUE CÊS TÃO CROCHETANDO AÍ?"
+  },
+  {
+    "path": "comics/bv/139.jpg",
+    "description": "RACISTA ATÉ DIZER BASTA, MAS O AMANTE DELA É PAI-DE-SANTO NUM TERREIRO EM PAULISTA. TODO MUNDO SABE.\nEU QUERO MINHA INOCÊNCIA DE VOLTA, TIO.\nJÁ CHEGASSE EM JUSSARA FREITAS ALI?\nCAFETINA, MENINO. DEIXA DE SER DEVAGAR.\nELA QUEM ARRANJA MULHER PRA METADE DESSES ENGRAVATADOS.\nCOMO ASSIM?\nE TEM CLEIDE, AQUELA COM CARA DE PAVÃO DEPENADO.\nELE BOTOU “A OUTRA VOZ” PRA DENTRO DE CASA UMA SEMANA DEPOIS DE FICAR VIÚVO.\nAMANTE! ACOMPANHA O RACIOCÍNIO, SEU LERDO!\nOUTRA VOZ?\nAQUELE QUE PARECE UM AGENTE DA GESTAPO É ROBERVAL.\nPAROU DE ARENGA, VOCÊS DOIS."
+  },
+  {
+    "path": "comics/bv/140.jpg",
+    "description": "NÃO SEI COM QUEM VOCÊS APRENDERAM ESSE NHENHENHÉM TODO.\nE ALI, HEIN? CONSEGUE IMAGINAR O CONTEÚDO DAQUELA CONVERSA, MARTA?\nELE SEMPRE DIZIA: “DOS FILHOS, SERGINHO É O QUE MAIS LEVA JEITO PRA POLÍTICA”.\nÉ VOCÊ QUE VAI CARREGAR O LEGADO DELE, SABIA?\nCALMA, GENTE. NEM CONSIGO PENSAR NISSO AGORA, HEHE.\nSE EU FECHO OS OLHOS, CONSIGO ATÉ OUVIR, RICARDO.\nVOCÊS ME DÃO LICENÇA?\nÉÉÉ, MARTINHA... SE TODO FILHO DA PUTA QUE TÁ NESSE VELÓRIO VOASSE, NÃO DAVA PRA VER O CÉU."
+  },
+  {
+    "path": "comics/bv/141.jpg",
+    "description": "OLHA QUEM TÁ POUSANDO, RICARDO.\nSÉRGIO VIDAL, PACOTE COMPLETO, ENCOMENDA DO DIABO.\nE AQUI ESTOU, ENTREGUE AO PRÓPRIO.\nSATANÁS, FAZ UM FAVOR? VAI LÁ DAR UM JEITO EM MAMÃE. ELA TÁ MAIS CHEIROSA QUE FILHO DE BARBEIRO.\nDEIXA EU SÓ VER UM NEGÓCIO ANTES.\nUMA...\nDUAS.\nIGUALZINHO A MIM, DUAS MÃOS E O SENTIMENTO DO MUNDO. POR QUE VOCÊ NÃO VAI, QUERIDO? É SÓ TIRAR O FRASCO DA MÃO DELA.\nTIRA O FRASCO DA MÃO DELA PRA TU VER O ESPORRO QUE TU LEVA. TEM QUE PENSAR NOUTRA COISA, PORQUE AQUELA ÁREA ALI JÁ TÁ CHERNOBYL DE TANTO PERFUME."
+  },
+  {
+    "path": "comics/bv/142.jpg",
+    "description": "TODA-VIDA EU BOTEI ESSES MENINOS PRA ME CHAMAR DE “MAMÃE” E AGORA ELES ME VÊM COM ESSA MANIA HORROROSA DE “MAINHA”.\nÔ, MAINHA...\nÔ... MÃE, E SE A GENTE TROCA O CONTEÚDO DO FRASCO POR ÁGUA?\nÉ TUA FILHA MESMO, MARTA? MENINA INTELIGENTE DANADA.\nA IDEIA É BOA MERMO. VÃO OS DOIS RESOLVER ISSO, ENTÃO.\nÔ, MARTA, O CAIXÃO É FECHADO POR QUÊ, MESMO, HEIN?\nPRESEPADA? É UMA SOLUÇÃO. RESPEITA TUA MÃE, CABRA.\nADORO ESSAS PRESEPADAS.\nLOREM IPSUM"
+  },
+  {
+    "path": "comics/bv/143.jpg",
+    "description": "PORQUE ELE QUIS.\nMAS ERA BOM SER ABERTO, NÃO? PRESSES MENINOS VEREM UM MORTO NA VIDA. JÁ TÁ NA HORA.\nRESPEITA TEU PAI, CABRA.\nELE FALARIA DO MESMO JEITO.\nPOIS SAIBAM QUE, QUANDO ELES TINHAM ONZE ANOS, EU LEVEI OS DOIS PRA VER O CORPO DE DOM HELDER CÂMARA SER VELADO NA IGREJA DA SÉ.\nPROGRAMÃO...\nCOM LICENÇA..."
+  },
+  {
+    "path": "comics/bv/144.jpg",
+    "description": "ENTÃO VOCÊ NÃO SABE QUEM EU SOU. VOCÊ SABE QUEM É MEU PAI.\nEU SEI QUEM VOCÊ É! VOCÊ É A FILHA DE DOUTOR VIDAL.\nMAS É QUASE COMO SE EU CONHECESSE A SENHORA.\nUNRUM.\nAI, NÃO AGUENTO MAIS! QUERO SAIR DESSE POLEIRO.\nBOM... ATÉ MAIS. MEUS PÊSAMES, MINHA FILHA."
+  },
+  {
+    "path": "comics/bv/145.jpg",
+    "description": "QUERIA NÃO MORRER."
+  },
+  {
+    "path": "comics/bv/146.jpg",
+    "description": "NUNCA SE SABE. EU POSSO SER O PRIMEIRO. JÁ FUI O PRIMEIRO DE MUITAS.\nSE TEU OBJETIVO É NÃO MORRER, ENTÃO FALHARÁS MISERAVELMENTE, MEU IRMÃO.\nEU NÃO TENHO MEDO DE MORRER. TODO MUNDO FAZ. SE TODO MUNDO FAZ, DIFÍCIL NÃO É.\nFUMANDO AGORA, É, MARTINHA?\nJÁ VAI PENSANDO EM DESISTIR TAMBÉM, VISSE.\nCOF COF... PENSANDO EM COMEÇAR... COF COF..."
+  },
+  {
+    "path": "comics/bv/147.jpg",
+    "description": "“ÀS VEZES EU QUERIA SER SÓ UM PEZINHO DE TABACO NO CANTINHO DE UMA HORTA, ESPERANDO SER EXTRAÍDO PELA MARLBORO.”\nQUINZE ANOS E O CARA NÃO LARGA A MESMA PIADA.\nOLHA SÓ QUANTA GENTE LÁ FORA.\nÓI, QUE EU TE DOU UM MURRO, VISSE?\nÔ, MARTA, E ESSA HISTÓRIA DE CAIXÃO FECHADO, HEIN?\nDE NOVO, ISSO?"
+  },
+  {
+    "path": "comics/bv/148.jpg",
+    "description": "QUANDO VOCÊS DOIS MORREREM, ASSASSINADOS POR MINHAS MÃOS, PODEM DEIXAR QUE EU ARRANJO UM CAIXÃO CONVERSÍVEL PRA CADA UM.\nA PESSOA VAI APERTAR UM BOTÃO PRO NEGÓCIO ABRIR TODINHO. E A PRIMEIRA COISA QUE VAI APARECER É ESSAS VENTAS COMPRIDAS DE VOCÊS.\nSE TRATA DE UMA FIGURA PÚBLICA, MARTA.\nTÁ NO TESTAMENTO. ELE QUERIA QUE A ÚLTIMA IMAGEM DELE FOSSE OUTRA.\nJÁ TÁS COM O TESTAMENTO? EU ERA QUE DEVIA TÁ CUIDANDO DISSO. POR ACASO, QUEM É O ADVOGADO DA FAMÍLIA?\nTU NÃO VALE A CUECA QUE TU VESTE, SÉRGIO\nTEM QUEM QUEIRA, VIU?\nMAS NINGUÉM MERECE. NEM TUAS PARICEIRA.\nPRA CADA PÉ TORTO TEM UMA CHINELA.\nUMA CHINELA DESSA? MELHOR ANDAR DESCALÇA."
+  },
+  {
+    "path": "comics/bv/149.jpg",
+    "description": "TE AMO, MAMÁ. TE DAVA ATÉ MEU SEGUNDO FÍGADO SE TU PRECISASSE.\nO SER HUMANO SÓ TEM UM FÍGADO, SEU CRETINO.\nHMMMM... AGORA VOCÊS QUEREM SER MEUS AMIGOS?\nRAPAZ, ISSO AÍ É O QUÊ?\nPEDE COM CARINHO.\nPASSA PRA CÁ!\nPASSA PRA CÁ, CORNO MANSO.\nTÔ COM OUTRA COISINHA AQUI, MAS NÃO SEI SE VOCÊS MERECEM.\nCALMA! CALMA! TOMA!\nACHO QUE TÁ NA HORA DESSE MURRO, MARTA.\nJÁ DEVIA TÁ LENDO!\nA OUTRA COISA É QUE ME DERAM UMA LISTA DE APELIDOS DEPRECIATIVOS QUE PAPAI COLECIONOU AO LONGO DA VIDA. QUEREM QUE EU LEIA?\nTÁ CERTO. VAMO LÁ…"
+  },
+  {
+    "path": "comics/bv/150.jpg",
+    "description": "TEM UM AQUI QUE É INFAME, VIU? “PASSADOR DE TROTSKY”.\nO QUE EU MAIS GOSTEI FOI “DIRIGENTE DA ESCUMALHA DOS CANHOTOS”. ACHEI SOFISTICADO.\n“DESPACHANTE DE KARL MARX”... ESSE AÍ EU OUVI MUITO NA ESCOLA.\n- Cripto-comunista; - social-insurrecionista; - tarefeiro do PC; - chefe nominal da subversão do estado de Pernambuco; - elemento de coloração avermelhada; - dirigente da escumalha dos canhotos; - Che Guevara da Silva Sauro; - socialista de manobra; - etilista elitista, - Moscovita de butique; - Bolchevista Social Club; - Grão-mestre da horda dos comunas; - passador de Trotsky. - soviêta do agreste; - agitador-geral da República das Bananas; - Encouraçado Botequim; - despachante de Karl Marx."
+  },
+  {
+    "path": "comics/bv/151.jpg",
+    "description": "POXA... É O VELHO FALEM MAL, MAS FALEM DE MIM.\nNÃO, ESSE AÍ É MEU... COMO É MESMO? EU DECOREI.\nÉ TEU LEMA, SÉRGIO.\nMEU DHARMA, HE-HE-HE.\nTÁ PEDINDO DESDE CEDO."
+  },
+  {
+    "path": "comics/bv/152.jpg",
+    "description": "FOI NO SEGUNDO GOVERNO. PAPAI TAVA LANÇANDO AQUELE PROGRAMA DE PESQUISA COM A BIOMASSA DA CANA.\nVOU IGNORAR VOCÊS, PORQUE TAVA LEMBRANDO DE UM NEGÓCIO QUE PAPAI FALOU NUMA ENTREVISTA.\nVOCÊ SE CONSIDERA UM HOMEM DO FUTURO, DOUTOR VIDAL?\nUM HOMEM DO FUTURO É UM HOMEM MORTO NO SEU TEMPO, PORQUE, NO FUTURO, QUEM DEPENDIA DELE NO PRESENTE JÁ NÃO EXISTE MAIS.\nSÓ POSSO SER UM HOMEM DO PRESENTE, MESMO QUE O PRESENTE NÃO EXISTA. MESMO QUE SEJA UMA COLEÇÃO DE PASSADOS CRUZADOS, BEM OU MAL SUCEDIDOS.\nVOU SER SINCERO, VISSE... EU NÃO ENTENDIA METADE DO QUE ELE FALAVA NESSAS ENTREVISTAS.\nPAPAI ERA UMA ESPÉCIE DE IMEDIATISTA..."
+  },
+  {
+    "path": "comics/bv/153.jpg",
+    "description": "A GRANDE OBSESSÃO DELE ERA: UM PRATO DE COMIDA NA HORA DA FOME.\nE, DE FATO, ENQUANTO ESTEVE VIVO, CORREU ATRÁS DE RESOLVER ISSO PRO POVO.\nMAS ME RESTA UMA DÚVIDA, UMA COCEIRINHA ALI NO FUNDO DA MENTE.\nSERÁ QUE ESSES GESTOS FORAM SUFICIENTES PARA MUDAR AS COISAS DE FATO?\nOU, PELA PRÓPRIA URGÊNCIA DAS OBRAS, VAI TUDO SE DESFAZER?\nA GENTE TÁ CONDENADO A VIVER UM CÍRCULO VICIOSO EM QUE A ÚNICA CONSTANTE É A TRANSITORIEDADE DOS GESTOS BONS E A PERECIBILIDADE DA INJUSTIÇA?\nOU É POSSÍVEL TRANSCENDER ENQUANTO A LUZ AINDA ESTÁ ACESA?\nTÁ ESCURECENDO."
+  },
+  {
+    "path": "comics/bv/154.jpg",
+    "description": "O QUÊ?\nO DIA TÁ CAINDO. O CORTEJO FÚNEBRE SAI ÀS 17H30 DO PALÁCIO.\nÉ UM ENTRA-E-SAI DANADO DESSA PORTA."
+  },
+  {
+    "path": "comics/bv/155.jpg",
+    "description": ""
+  },
+  {
+    "path": "comics/bv/156.jpg",
+    "description": "PARTE VI\nO EPÍLOGO"
+  },
+  {
+    "path": "comics/bv/157.jpg",
+    "description": "nome: marta pederneiras vidal nascimento: recife-pe em 1º de abril de 1959 filiação: joaquim almino vidal e jacira pederneiras vidal\nválido até: 02 de abril de 1980 expedição: 03 de abril de 1978\nrepartição expedidora:SR/DPF/PE  serviço de polícia marítima, área de fronteiras, pernambuco\nDONA MARTA? VOCÊ PODERIA ME ACOMPANHAR, POR FAVOR?"
+  },
+  {
+    "path": "comics/bv/158.jpg",
+    "description": "MARTA VIDAL, ENTÃO VOCÊ ESTÁ VOLTANDO DA ARGÉLIA DEPOIS DE... DEZ ANOS?\n\nUAU!\n\nMARTA, ME DIGA UMA COISA, QUAL É O NOME DO SEU PAI?\nJOAQUIM. TÁ ESCRITO AÍ. MAS ELE ATENDE POR JOCA E POR QUINCAS TAMBÉM."
+  },
+  {
+    "path": "comics/bv/159.jpg",
+    "description": "CERTO... ENTÃO, SE VOCÊ É MARTA VIDAL, O NOME DELE É JOAQUIM VIDAL.\n\nESSE NOME ME É FAMILIAR.\n\nO QUE ELE FAZ, MARTA?\nUMA RUMA DE COISA, VIU? O HOMEM NÃO PARA QUIETO."
+  },
+  {
+    "path": "comics/bv/160.jpg",
+    "description": "UNS VÉIO QUE NEM ELE, QUE FUMA CACHIMBO, BEBE UÍSQUE E CONVERSA DE FUTEBOL.\nE QUEM ELE FREQUENTA? QUE TIPO DE AMIGOS CULTIVA?\nMOÇO, ELE É MEU PAI. EU SOU FILHA DELE. EU NÃO PERGUNTO DA VIDA DELE. ELE QUE PERGUNTA DA MINHA, E OLHE LÁ!  O SENHOR NÃO É MEU PAI, MAS SE VOCÊ QUISER ME PERGUNTAR ALGO, TALVEZ EU RESPONDA.\nE ELE JÁ TRABALHOU PARA ALGUM GOVERNO ESTRANGEIRO?\nPOR QUE DECIDIU VOLTAR, DONA MARTA?\nPORQUE TODO MUNDO TÁ VENDO QUE A PORTA TÁ ABRINDO...\nNÃO TEM BRECHA PRO SEU PAI.\nE ALGUÉM PRECISA CHEGAR ANTES PRA ABRIR TAMBÉM AS JANELAS E AREJAR A CASA.\nMAS, PRA MIM, TEM."
+  },
+  {
+    "path": "comics/bv/161.jpg",
+    "description": "2018"
+  },
+  {
+    "path": "comics/bv/162.jpg",
+    "description": ""
+  },
+  {
+    "path": "comics/bv/163.jpg",
+    "description": "OXE...\nMARTA...\nHMM?\nPAI?"
+  },
+  {
+    "path": "comics/bv/164.jpg",
+    "description": "E QUEM MAIS?\nQUALQUER OUTRO QUE AINDA ESTEJA VIVO.\nQUE FOI?\nHMMM...\nÉ POR ISSO QUE EU PROCURO E NÃO ACHO.\nPROCURA O QUÊ?"
+  },
+  {
+    "path": "comics/bv/165.jpg",
+    "description": "NEM SEI, FILHA, MAS PARECE QUE RODO, RODO, RODO E NÃO ENCONTRO.\nE TU VIROU ESPÍRITA, MARTINHA?\nPELO VISTO, VOCÊ NÃO FEZ A PASSAGEM AINDA, PAI.\nFAÇA O SEGUINTE, AMANHÃ VOCÊ VAI NUM CENTRO PRA VER ESSA QUESTÃO. MAS HOJE ESTAVA QUERENDO CONVERSAR.\nCOM UM ESPÍRITO POSTADO NA MINHA FRENTE, A GENTE FICA MEIO SEM ESCOLHA.\nCONVERSAR O QUÊ?\nQUERIA SABER COMO É QUE ANDA O CAMPO POLÍTICO. EU GANHEI AS ELEIÇÕES?\nFAZ SENTIDO. DESCULPE, ESTOU MEIO AVOADO. QUEM GANHOU, ENTÃO?\nPAI, A PESSOA QUANDO FALECE, ELA AUTOMATICAMENTE DEIXA A DISPUTA."
+  },
+  {
+    "path": "comics/bv/166.jpg",
+    "description": "TEM MAIS DE QUINZE ANOS, PAI, NÃO SEI SE ESSA INFORMAÇÃO AINDA É RELEVANTE.\nTU SABE QUE EU SOU A PIOR PESSOA DO MUNDO PRA TE ATUALIZAR DISSO. POR QUE TU NÃO VAI PUXAR O PÉ DE SÉRGIO?\nQUINZE ANOS?! AVE MARIA, PARECE QUE EU SÓ FUI ALI NA ESQUINA E VOLTEI. ME DÊ O RESUMO DA ÓPERA, ENTÃO. O QUE ACONTECEU ESSES ANOS TODOS NA POLÍTICA?\nAI, PAI, SEI NÃO. POR QUE ESSE TEMA, HEIN? QUE TAL PERGUNTAR DA MINHA VIDA, DA DOS TEUS NETOS... DA TUA BISNETA QUE ACABOU DE NASCER?\nPREFIRO ME DEBRUÇAR SOBRE AQUELE OUTRO ASSUNTO.\nPORQUE EU QUERO A SUA VISÃO, MARTA.\nÔÔÔ, MAS PENSE NUM HOMEM OBECADO, VIU?\nESSA SUA PREFERÊNCIA É NOVIDADE ZERO, PAI.\nTÁ CERTO... VOU TENTAR SUMARIZAR."
+  },
+  {
+    "path": "comics/bv/167.jpg",
+    "description": "VOCÊ SAIU DA DISPUTA, MAS OUTRO CANDIDATO DA ESQUERDA VENCEU, HOUVE AVANÇOS SOCIAIS SUSTENTADOS POR UMA POLÍTICA DE CRESCIMENTO ECONÔMICO E EXPANSÃO DE CRÉDITO, VEIO REELEIÇÃO, VEIO SUCESSÃO E DEPOIS VEIO UMA CRISE INTERNACIONAL QUE DEMONSTROU A FRAGILIDADE DAS CONQUISTAS PRÉVIAS E SERVIU DE ADUBO PARA CRIATURAS RASTEJANTES CRESCEREM NAS SOMBRAS, DESENHAREM UM GOLPE APOIADO POR INSTITUIÇÕES RETRÓGRADAS E ABRIREM PASSAGEM PARA A ELEIÇÃO DE UMA FIGURA ESCATOLÓGICA."
+  },
+  {
+    "path": "comics/bv/168.jpg",
+    "description": "SÓ QUE A MEMÓRIA É UMA LÂMPADA DEFEITUOSA, PISCANDO GENTILEZAS E ATROCIDADES.\nPOIS NEM DIANTE DO OBSCURANTISMO, O SEU NOME FOI ESQUECIDO.\nESTÁ EM HOSPITAIS, PRAÇAS, RUAS, LIVROS, FILMES, MÚSICAS, PAREDES, ARQUIVOS, LEIS, OUTDOORS...\nSEU NOME BATIZA TANTOS LUGARES QUE TAMANHA OSTENTAÇÃO, AO MESMO TEMPO, ME ORGULHA E ME CONSTRANGE.\nSEU NOME ESTENDE O TAPETE A TENDÊNCIAS OLIGÁRQUICAS, TANTO QUANTO ACRESCENTA À LUTA POPULAR.\nÉ, RAPAZ, QUANDO O DIABO NÃO VEM, ELE MANDA O SECRETÁRIO.\nÉ UMA PALAVRA-CORINGA, QUE SE AJUSTA À CONVENIÊNCIA DO MOMENTO - UM PERONISMO DE ESTIMAÇÃO, REGIONAL, DE ALPERCATA XÔBOI."
+  },
+  {
+    "path": "comics/bv/169.jpg",
+    "description": "QUE RAZÃO EXISTE PRA TER SEU NOME CRUZANDO NOME DE GENERAL, ESQUINANDO DE VICE-PRESIDENTE, NAS IMEDIAÇÕES DE DUQUES, BRIGADEIROS, INDUSTRIALISTAS, POLÍTICOS E MAIS E MAIS POLÍTICOS? PORQUE VOCÊ É POLÍTICO, EU SEI. MESMO ASSIM. COISA CHATA, NÉ? A GENTE SAI PRA RUA E DÁ DE CARA COM O PARLAMENTO.\nE A MEMÓRIA TAMBÉM É A CHAMA DA VELA DISSIPANDO. ONTEM, ERA UMA HOMENAGEM, HOJE É UMA LEMBRANÇA. AMANHÃ, “VIDAL” É PALAVRA QUE, DE TÃO REPETIDA, SE ESVAZIA.\nBASTA ATRAVESSAR A AVENIDA CONSELHEIRO ROSA E SILVA, QUE NEM EM FLOR VOCÊ PENSA, AVALIE NUM MACHO QUALQUER DO TEMPO DO RONCA. TUDO O QUE É, É UM ENGAVETAMENTO FONÉTICO ENTRE MINHA LARGADA E MEU DESTINO.\nNOME VIRANDO SOM, QUANDO NÃO VIRA DESENTENDIMENTO, QUANDO NÃO VIRA ABORRECIMENTO, QUANDO NÃO VIRA RAIVA.\nPOSSO PEDIR PELO MENOS UM UM FAVOR?"
+  },
+  {
+    "path": "comics/bv/170.jpg",
+    "description": "MAS NÃO PRECISO DE INSCRIÇÕES PÚBLICAS PRA LEMBRAR DO SEU NOME. NEM DE DOCUMENTOS AUTENTICADOS, OU REGISTROS APÓCRIFOS. NEM DE CORRESPONDÊNCIAS ANTIGAS, RESGATADAS EM PESQUISAS DE ACERVO.\n(VAI FALTAR BORRACHA, MAS NÃO SE APAGA)\nPOR CURVAS E POR RETAS, ELE ASSUME A DIREÇÃO, ME FREIA, ME CARREGA AOS MONTES E ME LANÇA LÁ DO PRECIPÍCIO.\nDONA JACIRA? SEU ESPOSO PEDIU PARA ENTREGAR."
+  },
+  {
+    "path": "comics/bv/171.jpg",
+    "description": "E TALVEZ SEJA POR ISSO QUE EU FICO MORDIDA. PORQUE É DANADO, NÉ?!\nTU PROJETA UMA SOMBRA DO TAMANHO DE UM TREM PRA CIMA DE MIM,\nSE POSTA NA MINHA FRENTE, COMO UM FILTRO PELO QUAL SOU, E SEREI SEMPRE, ENXERGADA,\nE VAI-SE EMBORA."
+  },
+  {
+    "path": "comics/bv/172.jpg",
+    "description": "E AÍ, DO NADA!, ME APARECE ESSA VISÃO FANTASMAGÓRICA. MASCANDO UM CHARUTO, COM UM RISINHO NA FUÇA.\nE NÃO PERGUNTA DE MIM, DOS MEUS FILHOS E DOS MEUS NETOS, QUE BROTARAM, RAMIFICARAM, E FLORESCERAM NOS ÚLTIMOS 16 ANOS.\nNÃO PERGUNTA DE COMO CHOREI SUA MORTE, OU,\nDO DIA EM QUE, PRECOCEMENTE, PERDI A FÉ, OU,\nDE QUANDO FUGI, MAS VOLTEI, OU,\nMAIS ORDINÁRIA E IMPORTANTEMENTE, NÃO PERGUNTA NEM COMO FOI MEU DIA HOJE.\nPELO AMOR DO SANTO CRISTO!"
+  },
+  {
+    "path": "comics/bv/173.jpg",
+    "description": "SEI NEM POR QUE É QUE TÔ FALANDO ESSAS COISAS, NÃO É MUITO DO MEU FEITIO. CERTAMENTE NÃO É DO SEU. A GENTE É ASSIM MESMO, DE COMUNICAÇÃO ATRAVESSADA. O RESPIRO SINCRONIZADO ENTRE CONVERSAR AMENIDADES PESSOAIS E SERIEDADES SOCIOPOLÍTICAS. O ATO DE ESTAR JUNTOS E A ELETRICIDADE ESTÁTICA RESIDUAL DE TER ESTADO JUNTOS. O DRAMA, MAS NUNCA O MELODRAMA. O OPOSTO POLAR DESSA CONVERSA, A TAMPA DO VULCÃO, O SILÊNCIO QUE ESTÁ PRESTES A SE INSTALAR."
+  },
+  {
+    "path": "comics/bv/174.jpg",
+    "description": "SATISFEITO, PAI?\nPAI?"
+  },
+  {
+    "path": "comics/bv/175.jpg",
+    "description": ""
+  },
+  {
+    "path": "comics/bv/176.jpg",
+    "description": "PAI?\nBRINCO CAINDO\nO BRINCO CAI DA ORELHA DELA\nBRINCO CAINDO NA MÃO DE MARTA ESPELHANDO A CENA DA TORNEIRA"
+  },
+  {
+    "path": "comics/bv/177.jpg",
+    "description": "SOBRE O AUTOR\nANDRÉ VALENÇA É JORNALISTA, MAS PREFERE INVENTAR."
+  },
+  {
+    "path": "comics/bv/178.jpg",
+    "description": "EM ABRIL DE 1964, O GOVERNADOR DE PERNAMBUCO, JOAQUIM VIDAL, É DEPOSTO PELO GOLPE MILITAR. AO LONGO DA SEGUNDA METADE DO SÉCULO 20, ENQUANTO SUA FORÇA POLÍTICA CRESCE, O PATRIARCA E SEUS FILHOS EXPERIENCIAM CRISES SOCIAIS E ESPIRITUAIS QUE SE MANIFESTAM ENTRE O DRAMA E A FARSA.\nRECIFE, 2025"
+  }
 ]
