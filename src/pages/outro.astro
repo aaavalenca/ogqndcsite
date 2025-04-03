@@ -1,0 +1,68 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title="HQ" description={SITE_DESCRIPTION} />
+    <style>
+      .comic-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+        justify-items: center;
+        margin: 2rem 0;
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .comic-version {
+        text-align: center;
+      }
+      .comic-version img {
+        max-width: 50%;
+        height: auto;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        transition:
+          transform 0.3s ease,
+          box-shadow 0.3s ease;
+      }
+      .comic-version img:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+      }
+      @media (max-width: 768px) {
+        .comic-container {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <Header />
+    <main>
+      <h1>incentivo</h1>
+      <p>
+        Este projeto foi contemplado nos Editais d a Lei Paulo Gustavo
+        Pernambuco e tem apoio financeiro do Governo do Estado de Pernambuco,
+        através da Secretaria de Cultura do Estado via Lei Paulo Gustavo,
+        direcionada pelo Ministério da Cultura Governo Federal.
+      </p>
+      <h1>apoio</h1>
+      <p>
+        Este projeto teve apoio de impressão do Laboratório de Práticas Gráficas
+        (LPG) da Universidade Federal de Pernambuco.
+      </p>
+      <!-- <div class="comic-version">
+        <a href="https://www.instagram.com/aaavalenca" target="_blank">
+          <img src="/comics/autor.png" alt="Comic Preview" />
+        </a>
+        <p>andré valença é jornalista, mas prefere inventar</p>
+      </div> -->
+    </main>
+  </body>
+</html>
