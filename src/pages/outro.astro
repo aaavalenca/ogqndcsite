@@ -23,21 +23,8 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
         text-align: center;
       }
       .comic-version img {
-        max-width: 50%;
+        max-width: 40%;
         height: auto;
-        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-        transition:
-          transform 0.3s ease,
-          box-shadow 0.3s ease;
-      }
-      .comic-version img:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
-      }
-      @media (max-width: 768px) {
-        .comic-container {
-          grid-template-columns: 1fr;
-        }
       }
     </style>
   </head>
@@ -45,24 +32,66 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
   <body>
     <Header />
     <main>
+      <h1>sobre</h1>
+      <p>
+        Embora as semelhanças com a vida real não sejam mera coincidência, esta
+        é uma obra de ficção, na qual nem os fatos são verdade.
+      </p>
+      <p>
+        A tipografia usada na versão original é a Lula Borges para diálogos e
+        descrições, e Baskerville para os títulos dos capítulos e informações
+        extra-obra.
+      </p>
+      <p>
+        A tipografia usada na versão com acessibilidade para baixa visão
+        Atkinson Hyperlegible Next, com espaçamento entre linhas de 1,5. Todas
+        as páginas dessa versão contêm o texto também como metadado para ser
+        lidos por softwares de Text To Speech.
+      </p>
+      <p>A tipografia usada no site é Atkinson Hyperlegible.</p>
       <h1>incentivo</h1>
       <p>
-        Este projeto foi contemplado nos Editais d a Lei Paulo Gustavo
-        Pernambuco e tem apoio financeiro do Governo do Estado de Pernambuco,
-        através da Secretaria de Cultura do Estado via Lei Paulo Gustavo,
-        direcionada pelo Ministério da Cultura Governo Federal.
+        Este projeto foi contemplado nos Editais da Lei Paulo Gustavo Pernambuco
+        e tem apoio financeiro do Governo do Estado de Pernambuco, através da
+        Secretaria de Cultura do Estado via Lei Paulo Gustavo, direcionada pelo
+        Ministério da Cultura Governo Federal.
+        <img src="/paulo_gustavo_logo.png" />
       </p>
       <h1>apoio</h1>
       <p>
         Este projeto teve apoio de impressão do Laboratório de Práticas Gráficas
         (LPG) da Universidade Federal de Pernambuco.
+        <div class="comic-version">
+          <img src="/praticas_graficas_logo.png" />
+        </div>
       </p>
-      <!-- <div class="comic-version">
-        <a href="https://www.instagram.com/aaavalenca" target="_blank">
-          <img src="/comics/autor.png" alt="Comic Preview" />
-        </a>
-        <p>andré valença é jornalista, mas prefere inventar</p>
-      </div> -->
+      <h1>site</h1>
+      <p>
+        Este site foi produzido por André Valença, utilizando o framework Astro.
+      </p>
+      <p>
+        O leitor de quadrinhos é uma adaptação do código <a
+          href="https://afzafri.github.io/Web-Comic-Reader/"
+          target="_blank">Web Comic Reader</a
+        >, de Afif Zafri, disponível no <a
+          href="https://github.com/afzafri/Web-Comic-Reader"
+          target="_blank">Github</a
+        >.
+      </p>
+      <p>MIT License</p>
+      <p>Copyright (c) 2017 Afif Zafri</p>
+      <p>
+        Permission is hereby granted, free of charge, to any person obtaining a
+        copy of this software and associated documentation files (the
+        "Software"), to deal in the Software without restriction, including
+        without limitation the rights to use, copy, modify, merge, publish,
+        distribute, sublicense, and/or sell copies of the Software, and to
+        permit persons to whom the Software is furnished to do so, subject to
+        the following conditions: The above copyright notice and this permission
+        notice shall be included in all copies or substantial portions of the
+        Software.
+      </p>
     </main>
+    <!-- <Footer /> -->
   </body>
 </html>

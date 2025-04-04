@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <link href="https://unpkg.com/lightgallery@1/dist/css/lightgallery.min.css" rel="stylesheet">
@@ -11,6 +12,7 @@
             padding: 0;
             background-color: #f5f5f5;
         }
+
         .page-indicator {
             position: fixed;
             bottom: 20px;
@@ -20,27 +22,33 @@
             font-weight: bold;
             color: #555;
             z-index: 1000;
-            background: rgba(255,255,255,0.7);
+            background: rgba(255, 255, 255, 0.7);
             padding: 5px;
         }
+
         #comic-gallery {
             width: 100vw;
             height: 100vh;
         }
+
         #comic-gallery a {
-            display: none; /* Hide until LightGallery initializes */
+            display: none;
+            /* Hide until LightGallery initializes */
         }
+
         /* Custom container for padding */
         .lg-outer .lg-img-wrap {
             padding: 40px !important;
             box-sizing: border-box;
         }
+
         /* Make image fit within padded area */
         .lg-outer .lg-image {
-            max-width: calc(100% - 80px) !important;
-            max-height: calc(100% - 80px) !important;
+            max-width: calc(100%) !important;
+            max-height: calc(100%) !important;
             object-fit: contain;
         }
+
         .loading {
             position: fixed;
             top: 50%;
@@ -49,16 +57,35 @@
             font-size: 1.5em;
             color: #555;
         }
+
         .error {
             color: #d32f2f;
         }
+
+        .lg-close {
+            display: none !important;
+        }
+
+        .lg-flip-hor,
+        .lg-flip-ver {
+            display: none !important;
+        }
+
+        .lg-outer {
+            pointer-events: none;
+        }
+
+        .lg-outer .lg {
+            pointer-events: all;
+        }
+        
     </style>
 </head>
 
 <body>
     <div class="page-indicator" id="pageIndicator"></div>
     <div class="loading" id="loading">Loading comic...</div>
-    
+
     <div id="comic-gallery">
         <!-- Images will be inserted here by JavaScript -->
     </div>
@@ -67,7 +94,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://unpkg.com/lightgallery@1/dist/js/lightgallery-all.min.js"></script>
     <script>
-        $(document).ready(function() {
+        $(document).ready(function () {
             // Fetch the comic pages from a JSON file
             fetch('comics/comic-pages.json')
                 .then(response => {
@@ -79,19 +106,19 @@
                 .then(data => {
                     // Hide loading message
                     $("#loading").hide();
-                    
+
                     // Check if data is valid
                     if (!Array.isArray(data)) {
                         throw new Error('Invalid JSON format: Expected an array');
                     }
-                    
+
                     // Build the gallery HTML
                     let galleryHTML = '';
                     data.forEach((page, index) => {
                         if (!page.path) {
                             throw new Error(`Page ${index + 1} is missing path property`);
                         }
-                        
+
                         const description = page.description || `Page ${index + 1}`;
                         galleryHTML += `
                             <a href="${page.path}" data-sub-html="${description}">
@@ -99,32 +126,42 @@
                             </a>
                         `;
                     });
-                    
+
                     // Insert into the gallery div
                     $("#comic-gallery").html(galleryHTML);
-                    
+
                     // Initialize LightGallery
                     $("#comic-gallery").lightGallery({
                         thumbnail: true,
                         animateThumb: true,
                         showThumbByDefault: false,
                         download: false,
-                        onAfterOpen: function() {
+                        share:false,
+                        closable: false,
+                        loop: false,
+                        onAfterOpen: function () {
                             const total = data.length;
                             const current = this.index + 1;
                             const description = data[this.index].description || `Page ${current}`;
                             $("#pageIndicator").text(`${current} of ${total}: ${description}`);
                         },
-                        onAfterSlide: function() {
+                        onAfterSlide: function () {
                             const total = data.length;
                             const current = this.index + 1;
                             const description = data[this.index].description || `Page ${current}`;
                             $("#pageIndicator").text(`${current} of ${total}: ${description}`);
                         }
                     });
-                    
+
                     // Automatically open the first image
                     $("#comic-gallery a:first").trigger("click");
+                    $(document).on('keydown', function (e) {
+                        if (e.keyCode === 27) { // ESC key
+                            e.preventDefault();
+                            e.stopPropagation();
+                            return false;
+                        }
+                    });
                 })
                 .catch(error => {
                     console.error('Error loading comic pages:', error);
@@ -133,4 +170,5 @@
         });
     </script>
 </body>
+
 </html>
