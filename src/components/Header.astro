@@ -1,12 +1,16 @@
 ---
 import HeaderLink from "./HeaderLink.astro";
 import { SITE_TITLE } from "../consts";
+let isMenuOpen = false;
 ---
 
 <header>
   <nav>
     <h2><a href="/">{SITE_TITLE}</a></h2>
-    <div class="internal-links">
+
+    <button id="menu-toggle" aria-label="Abrir menu"> &#9776; </button>
+
+    <div class="internal-links" id="nav-links">
       <HeaderLink href="/">prefácio</HeaderLink>
       <HeaderLink href="/about">agradecimentos</HeaderLink>
       <HeaderLink href="/comic">hq</HeaderLink>
@@ -14,6 +18,7 @@ import { SITE_TITLE } from "../consts";
       <HeaderLink href="/author">autor</HeaderLink>
       <HeaderLink href="/outro">sobre</HeaderLink>
     </div>
+
     <div class="social-links">
       <h2>
         <a href="https://www.instagram.com/aaavalenca" target="_blank"
@@ -22,6 +27,7 @@ import { SITE_TITLE } from "../consts";
       </h2>
     </div>
   </nav>
+
   <style>
     header {
       margin: 0;
@@ -29,38 +35,90 @@ import { SITE_TITLE } from "../consts";
       background: white;
       box-shadow: 0 2px 8px rgba(var(--black), 5%);
     }
+
     h2 {
       margin: 0;
       font-size: 1em;
+      flex: 1 1 auto; /* 👈 allow it to shrink and wrap */
+      min-width: 0; /* 👈 prevent flex overflow issues */
+      word-break: break-word; /* 👈 optional: break long words if needed */
     }
 
     h2 a,
     h2 a.active {
       text-decoration: none;
     }
+
     nav {
       display: flex;
       align-items: center;
       justify-content: space-between;
+      flex-wrap: nowrap; /* 👈 don't wrap nav items */
+      gap: 1em; /* optional: add some spacing between elements */
     }
+
+    #menu-toggle {
+      display: none;
+      font-size: 2em;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 0.5em;
+    }
+
     nav a {
       padding: 1em 0.5em;
       color: var(--black);
       border-bottom: 4px solid transparent;
       text-decoration: none;
     }
+
     nav a.active {
-      text-decoration: none;
       border-bottom-color: var(--accent);
     }
+
     .social-links,
     .social-links a {
       display: flex;
     }
+
     @media (max-width: 720px) {
+      nav.menu-open h2,
       .social-links {
         display: none;
       }
+
+      #menu-toggle {
+        display: block;
+      }
+
+      .internal-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+      }
+
+      .internal-links.open {
+        display: flex;
+      }
+
+      h2 {
+        font-size: 0.85em; /* simulate h3 */
+      }
+      h3 {
+        font-size: 0.85em;
+      }
     }
   </style>
+
+  <script type="module" is:inline>
+    const toggleButton = document.getElementById("menu-toggle");
+    const nav = toggleButton?.closest("nav");
+    const navLinks = document.getElementById("nav-links");
+
+    toggleButton?.addEventListener("click", () => {
+      navLinks?.classList.toggle("open");
+      nav?.classList.toggle("menu-open");
+    });
+  </script>
 </header>
