@@ -9,7 +9,6 @@ let isMenuOpen = false;
     <h2><a href="/">{SITE_TITLE}</a></h2>
 
     <button id="menu-toggle" aria-label="Abrir menu"> &#9776; </button>
-
     <div class="internal-links" id="nav-links">
       <HeaderLink href="/">prefácio</HeaderLink>
       <HeaderLink href="/about">agradecimentos</HeaderLink>
@@ -18,7 +17,7 @@ let isMenuOpen = false;
       <HeaderLink href="/author">autor</HeaderLink>
       <HeaderLink href="/outro">sobre</HeaderLink>
     </div>
-
+    <h5></h5>
     <div class="social-links">
       <h2>
         <a href="https://www.instagram.com/aaavalenca" target="_blank"
@@ -34,6 +33,19 @@ let isMenuOpen = false;
       padding: 0 1em;
       background: white;
       box-shadow: 0 2px 8px rgba(var(--black), 5%);
+    }
+
+    h5 {
+      margin: 0;
+      font-size: 1em;
+      flex: 1 1 auto; /* 👈 allow it to shrink and wrap */
+      min-width: 0; /* 👈 prevent flex overflow issues */
+      word-break: break-word; /* 👈 optional: break long words if needed */
+    }
+
+    h5 a,
+    h5 a.active {
+      text-decoration: none;
     }
 
     h2 {
@@ -84,6 +96,7 @@ let isMenuOpen = false;
 
     @media (max-width: 720px) {
       nav.menu-open h2,
+      h5,
       .social-links {
         display: none;
       }
